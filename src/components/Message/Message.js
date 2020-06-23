@@ -54,7 +54,7 @@ const Message = () => {
                     <figure id="zooImage">
                         <img src={ZooImage} alt="Us at the zoo" />
                     </figure>
-                    <p>The best we had so far, without a doubt. We spent the whole day together, and it was the first time when
+                    <p>The best date we had so far without a doubt. We spent the whole day together, and it was the first time when
                         we walked around hand-in-hand (it was such an amazing feeling). Whenever I would see you smiling at me,
                         it was like we were in our own little bubble and nothing else mattered.
                     </p>
