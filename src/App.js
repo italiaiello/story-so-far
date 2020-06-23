@@ -1,24 +1,26 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState } from 'react';
+import StartScreen from './components/StartScreen/StartScreen'
+import Message from './components/Message/Message'
+
 import './App.css';
 
 function App() {
+
+  const [route, setRoute] = useState('home')
+
+  const onRouteChange = newRoute => {
+    setRoute(newRoute)
+  }
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {
+        route === 'start' 
+        ?
+        <StartScreen onRouteChange={onRouteChange} />
+        :
+        <Message />
+      }
     </div>
   );
 }
