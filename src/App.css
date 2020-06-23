@@ -11,6 +11,14 @@
   display: block;
 }
 
+p {
+  text-align: left;
+}
+
+.alignRight p {
+  text-align: right;
+}
+
 /* Start Screen */
 
 .errorMessage {
@@ -19,29 +27,49 @@
 
 /* Message */
 
+.stepContainer {
+  padding: 40px 0;
+  background-color: rgb(245, 245, 245);
+}
+
+.stepContainer:nth-child(odd) {
+  background-color: #121212;
+  color: white;
+}
+
+.step, .step-column {
+  width: 80%;
+  height: 300px;
+  margin: 0 auto;
+}
+
 .step {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-#logo {
-  width: 20%;
-  height: auto;
+.step-column p {
+  width: 80%;
+  margin: 0 auto;
 }
 
-#logo img {
-  width: 100%;
-  height: auto;
+.imageContainer {
+  width: auto;
+  height: 70%;
+}
+
+.imageContainer img {
+  width: auto;
+  height: 100%;
 }
 
 .description {
   width: 50%;
-  text-align: left;
 }
 
 #zooImage {
-  width: 50%;
+  width: 40%;
   height: auto;
   margin: 0 auto;
 }
