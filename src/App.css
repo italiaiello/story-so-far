@@ -19,6 +19,36 @@ p {
   text-align: right;
 }
 
+h2 {
+  padding: 50px 0;
+  background-color: black;
+  color: white;
+  margin-bottom: 0;
+}
+
+.step-blue {
+  /* background-color: #375e97; */
+  background-color: #98dbc6;
+  color: white
+}
+
+.step-red {
+  /* background-color: #fb6542; */
+  background-color: #5bc8ac;
+  color: black
+}
+
+.step-yellow {
+  /* background-color: #ffbb00; */
+  background-color: #e6d72a;
+}
+
+.step-green {
+  /* background-color: #3f681c; */
+  background-color: #f18d9e;
+
+}
+
 /* Start Screen */
 
 .errorMessage {
@@ -29,17 +59,11 @@ p {
 
 .stepContainer {
   padding: 40px 0;
-  background-color: rgb(245, 245, 245);
-}
-
-.stepContainer:nth-child(odd) {
-  background-color: #121212;
-  color: white;
 }
 
 .step, .step-column {
   width: 80%;
-  height: 300px;
+  min-height: 300px;
   margin: 0 auto;
 }
 
@@ -50,7 +74,7 @@ p {
 }
 
 .step-column p {
-  width: 80%;
+  width: 60%;
   margin: 0 auto;
 }
 
@@ -61,17 +85,18 @@ p {
 
 .imageContainer img {
   width: auto;
-  height: 100%;
+  height: 200px;
 }
 
 .description {
-  width: 50%;
+  width: 40%;
 }
 
 #zooImage {
   width: 40%;
   height: auto;
   margin: 0 auto;
+  margin-bottom: 30px
 }
 
 #zooImage img {
@@ -79,3 +104,5 @@ p {
   height: auto;
   border-radius: 30px;
 }
+
+
