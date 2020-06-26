@@ -5,7 +5,7 @@ const Message = () => {
     return (
         <section id="message">
             <article id="titlePage">
-                <h1 id="title">The Story Of Us</h1>
+                <h1 id="title">Our Story</h1>
                 <p id="abstract">A showcase of all the best memories and moments of our relationship so far</p>
                 <div id="arrow"></div>
             </article>

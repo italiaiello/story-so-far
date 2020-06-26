@@ -41,7 +41,7 @@ const StartScreen = ({ onRouteChange }) => {
             <article>
                 <form onSubmit={onPasswordSubmit} onKeyPress={onEnterPress}>
                     <input id="password" name="password" type="password" placeholder="Enter password..." onKeyPress={onEnterPress} onChange={onPasswordChange} />
-                    <button id="submitButton" onClick={onPasswordSubmit}>Submit</button>
+                    <button id="submitButton" onClick={onPasswordSubmit}>Open</button>
                 </form>
                 <p className={isValid ? 'hide' : 'errorMessage show'}>That password is incorrect</p>
             </article>
