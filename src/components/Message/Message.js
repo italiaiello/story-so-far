@@ -7,10 +7,7 @@ const Message = () => {
             <article id="titlePage">
                 <h1 id="title">The Story Of Us</h1>
                 <p id="abstract">A showcase of all the best memories and moments of our relationship so far</p>
-                <div id="scrollDown">
-                    <p>Scroll down</p>
-                    <div id="arrow"></div>
-                </div>
+                <div id="arrow"></div>
             </article>
             <Year2020 />
         </section>

@@ -61,7 +61,8 @@ const Year2020 = () => {
                         it was like we were in our own little bubble and nothing else mattered <Emoji symbol=" 🤗 " />
                         <br />
                         <br />
-                        When it came time to grab some dinner, your idea to have a pizza picnic in the park was such an amazing idea. 
+                        When it came time to grab some dinner, your idea to have a pizza picnic in the park was such an amazing idea. It's cute moments like these
+                        that make me pinch myself that I'm actually spending time with someone as special as you <Emoji symbol=" 😊 " />
                         <br />
                         <br />
                         Another reason why it was such a special date was because it was the day we agreed to make our relationship official. I was expecting to
