@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 const StartScreen = ({ onRouteChange }) => {
 
-    const password = "fermented"
+    const password = "YOUR_PASSWORD_HERE"
     const [isValid, setIsValid] = useState(true)
     const [passwordEntered, setPasswordEntered] = useState('')
 
