@@ -225,14 +225,14 @@ form {
     /* Message */
 
     #title {
-      font-size: 3.5rem;
+      font-size: 4rem;
       width: 80%;
       margin: 20px 0;
     }
 
     #abstract {
       width: 80%;
-      font-size: 1.4rem;
+      font-size: 1.2rem;
     }
 
     #arrow {
