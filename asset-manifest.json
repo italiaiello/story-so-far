@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/message/static/css/main.5245e233.chunk.css",
-    "main.js": "/message/static/js/main.e1c8ac29.chunk.js",
-    "main.js.map": "/message/static/js/main.e1c8ac29.chunk.js.map",
-    "runtime-main.js": "/message/static/js/runtime-main.36f02498.js",
-    "runtime-main.js.map": "/message/static/js/runtime-main.36f02498.js.map",
-    "static/js/2.bae47d2b.chunk.js": "/message/static/js/2.bae47d2b.chunk.js",
-    "static/js/2.bae47d2b.chunk.js.map": "/message/static/js/2.bae47d2b.chunk.js.map",
-    "index.html": "/message/index.html",
-    "precache-manifest.e01dcb2908dd236dbdaa99644021b072.js": "/message/precache-manifest.e01dcb2908dd236dbdaa99644021b072.js",
-    "service-worker.js": "/message/service-worker.js",
-    "static/css/main.5245e233.chunk.css.map": "/message/static/css/main.5245e233.chunk.css.map",
-    "static/js/2.bae47d2b.chunk.js.LICENSE.txt": "/message/static/js/2.bae47d2b.chunk.js.LICENSE.txt",
-    "static/media/bumbleLogo.svg": "/message/static/media/bumbleLogo.a296963d.svg",
-    "static/media/skype-covid.svg": "/message/static/media/skype-covid.768c6a0c.svg",
-    "static/media/zoo.JPG": "/message/static/media/zoo.185e3ca7.JPG"
+    "main.css": "/story-so-far/static/css/main.5245e233.chunk.css",
+    "main.js": "/story-so-far/static/js/main.cdd99a3b.chunk.js",
+    "main.js.map": "/story-so-far/static/js/main.cdd99a3b.chunk.js.map",
+    "runtime-main.js": "/story-so-far/static/js/runtime-main.d6cacf0a.js",
+    "runtime-main.js.map": "/story-so-far/static/js/runtime-main.d6cacf0a.js.map",
+    "static/js/2.bae47d2b.chunk.js": "/story-so-far/static/js/2.bae47d2b.chunk.js",
+    "static/js/2.bae47d2b.chunk.js.map": "/story-so-far/static/js/2.bae47d2b.chunk.js.map",
+    "index.html": "/story-so-far/index.html",
+    "precache-manifest.d79bd9f0e5dafab0723ae5d418317436.js": "/story-so-far/precache-manifest.d79bd9f0e5dafab0723ae5d418317436.js",
+    "service-worker.js": "/story-so-far/service-worker.js",
+    "static/css/main.5245e233.chunk.css.map": "/story-so-far/static/css/main.5245e233.chunk.css.map",
+    "static/js/2.bae47d2b.chunk.js.LICENSE.txt": "/story-so-far/static/js/2.bae47d2b.chunk.js.LICENSE.txt",
+    "static/media/bumbleLogo.svg": "/story-so-far/static/media/bumbleLogo.a296963d.svg",
+    "static/media/skype-covid.svg": "/story-so-far/static/media/skype-covid.768c6a0c.svg",
+    "static/media/zoo.JPG": "/story-so-far/static/media/zoo.185e3ca7.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.36f02498.js",
+    "static/js/runtime-main.d6cacf0a.js",
     "static/js/2.bae47d2b.chunk.js",
     "static/css/main.5245e233.chunk.css",
-    "static/js/main.e1c8ac29.chunk.js"
+    "static/js/main.cdd99a3b.chunk.js"
   ]
 }
