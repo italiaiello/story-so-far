@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
 
 .App {
   min-height: 100vh;
@@ -103,8 +105,9 @@ form {
 }
 
 #title {
-  font-size: 5rem;
+  font-size: 8rem;
   color: #003b46;
+  font-family: "Kaushan Script"
 }
 
 #abstract {
