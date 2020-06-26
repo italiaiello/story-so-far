@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/story-so-far/static/css/main.3939e6ac.chunk.css",
+    "main.css": "/story-so-far/static/css/main.afba28f3.chunk.css",
     "main.js": "/story-so-far/static/js/main.d58010c1.chunk.js",
     "main.js.map": "/story-so-far/static/js/main.d58010c1.chunk.js.map",
     "runtime-main.js": "/story-so-far/static/js/runtime-main.d6cacf0a.js",
@@ -8,9 +8,9 @@
     "static/js/2.bae47d2b.chunk.js": "/story-so-far/static/js/2.bae47d2b.chunk.js",
     "static/js/2.bae47d2b.chunk.js.map": "/story-so-far/static/js/2.bae47d2b.chunk.js.map",
     "index.html": "/story-so-far/index.html",
-    "precache-manifest.16f7895f5326729a0903783aae35a140.js": "/story-so-far/precache-manifest.16f7895f5326729a0903783aae35a140.js",
+    "precache-manifest.000dd54d114fb5bb126b0c63d8a7631a.js": "/story-so-far/precache-manifest.000dd54d114fb5bb126b0c63d8a7631a.js",
     "service-worker.js": "/story-so-far/service-worker.js",
-    "static/css/main.3939e6ac.chunk.css.map": "/story-so-far/static/css/main.3939e6ac.chunk.css.map",
+    "static/css/main.afba28f3.chunk.css.map": "/story-so-far/static/css/main.afba28f3.chunk.css.map",
     "static/js/2.bae47d2b.chunk.js.LICENSE.txt": "/story-so-far/static/js/2.bae47d2b.chunk.js.LICENSE.txt",
     "static/media/bumbleLogo.svg": "/story-so-far/static/media/bumbleLogo.a296963d.svg",
     "static/media/skype-covid.svg": "/story-so-far/static/media/skype-covid.768c6a0c.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.d6cacf0a.js",
     "static/js/2.bae47d2b.chunk.js",
-    "static/css/main.3939e6ac.chunk.css",
+    "static/css/main.afba28f3.chunk.css",
     "static/js/main.d58010c1.chunk.js"
   ]
 }
