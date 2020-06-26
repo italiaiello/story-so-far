@@ -8,7 +8,7 @@ const Year2020 = () => {
     return (
         <section>
             <h2 className="year">2020</h2>
-            <article className="stepContainer step-green">
+            <article className="stepContainer">
                 <article id="bumble" className="step alignRight">
                     <figure id="logo" className="imageContainer">
                         <img src={BumbleLogo} alt="Bumble logo" />
@@ -20,7 +20,7 @@ const Year2020 = () => {
                         <br />
                         We talked for about a week on messenger, and in that week, we really got to know each other super well
                         <Emoji symbol=" 😊 " />  If our texts were mountains, some of them would give Mount Everest a run for its 
-                        money <Emoji symbol="😏" />
+                        money <Emoji symbol=" 😏" />
                         <br />
                         <br />
                         After that amazing week of back and forth, we went on our first date to Either Or in Newtown. That date
@@ -29,21 +29,21 @@ const Year2020 = () => {
                     </p>
                 </article>
             </article>
-            <article className="stepContainer step-red">
+            <article className="stepContainer">
                 <article id="skype-calls" className="step">
                     <p className="description">
-                        Because of COVID-19, our following dates had to be done on Skype. I feel like it brought
-                        us closer a lot faster, which became especially clear when we finally got to
-                        meet up in person after a month of skyping <Emoji symbol="😁" /> 
+                        Because of COVID-19, our following dates had to be done over Skype. It brought
+                        us closer a lot faster which became especially clear when we finally got to
+                        meet up in person after a month of skyping <Emoji symbol=" 😁" /> 
                         <br />
                         <br />
                         I always remember being worried that I would run out of things to say during the call, but
-                        somehow we just never, EVER, shutup <Emoji symbol=" 😂 " /> so in the blink of an eye we would have been talking for
+                        somehow we just never, EVER, shut up <Emoji symbol=" 😂 " /> so in the blink of an eye we would have been talking for
                         3 hours.
                         <br />
                         <br />
-                        Fast forward to restrictions being slowly eased, and we get to have our first few dates in person after so
-                        long. It was technically only our second proper date, but like we always say, it's like we knew each other
+                        Fast forward to restrictions being slowly eased, and we get to have a few more dates in person after so
+                        long. It was technically only our second proper date, but like we always say, it was like we knew each other
                         for ages <Emoji symbol=" 🤗 " />
                     </p>
                     <figure id="skype-covid" className="imageContainer">
@@ -51,16 +51,28 @@ const Year2020 = () => {
                     </figure>
                 </article>
             </article>
-            <article className="stepContainer step-yellow">
+            <article className="stepContainer">
                 <article className="step-column">
                     <figure id="zooImage" className="imageContainer">
                         <img src={ZooImage} alt="Us at the zoo" />
                     </figure>
-                    <p>The best date we had so far without a doubt <Emoji symbol=" 😊" /> We spent the whole day together, and it was the first time when
+                    <p>The best date we had so far, without a doubt <Emoji symbol=" 😊" /> We spent the whole day together, and it was the first time when
                         we walked around hand-in-hand (it was such an amazing feeling <Emoji symbol=" 😉 " />). Whenever I would see you smiling at me,
                         it was like we were in our own little bubble and nothing else mattered <Emoji symbol=" 🤗 " />
+                        <br />
+                        <br />
+                        When it came time to grab some dinner, your idea to have a pizza picnic in the park was such an amazing idea. 
+                        <br />
+                        <br />
+                        Another reason why it was such a special date was because it was the day we agreed to make our relationship official. I was expecting to
+                        have to ask you to be my girlfriend in a more formal way <Emoji symbol=" 😂 " /> but we just ended up agreeing to it so casually, which 
+                        made it so much better <Emoji symbol=" 😊 " /> It was a real testament to how comfortable we've become with each other.
                     </p>
                 </article>
+            </article>
+            <article id="finalMessage">
+                <h2>To be continued ...</h2>
+                <p>I'm looking forward to making some more amazing memories with you <Emoji symbol=" 😊" /></p>
             </article>
         </section>
     )

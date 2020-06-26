@@ -1,6 +1,7 @@
 .App {
   min-height: 100vh;
   text-align: center;
+  font-family: Montserrat, "Sans Serif";
 }
 
 .hide {
@@ -21,44 +22,122 @@ p {
 
 h2 {
   padding: 50px 0;
-  background-color: black;
+  background-color: #003b46;
   color: white;
-  margin-bottom: 0;
+  margin: 0;
 }
 
-.step-blue {
-  /* background-color: #375e97; */
-  background-color: #98dbc6;
-  color: white
-}
-
-.step-red {
-  /* background-color: #fb6542; */
-  background-color: #5bc8ac;
-  color: black
-}
-
-.step-yellow {
-  /* background-color: #ffbb00; */
-  background-color: #e6d72a;
-}
-
-.step-green {
-  /* background-color: #3f681c; */
-  background-color: #f18d9e;
-
+span {
+  font-size: 1.3rem
 }
 
 /* Start Screen */
 
+#startScreen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  height: 100vh;
+}
+
+#startScreen h2 {
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+
+form {
+  display: flex;
+  justify-content: space-around;
+  height: 50px;
+  width: 300px;
+}
+
+#password {
+  border: 2px solid #003b46;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  padding: 0 10px;
+  flex: 2;
+  background: none;
+  outline: none;
+  color: #003b46;
+}
+
+#password::placeholder {
+  color: rgb(185, 185, 185);
+}
+
+#submitButton {
+  width: 80px;
+  height: 100%;
+  border: none;
+  background-color: #003b46;
+  outline: none;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  color: white;
+}
+
 .errorMessage {
-  color: red
+  color: rgb(190, 2, 2);
+  text-align: center;
 }
 
 /* Message */
 
+#titlePage {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background: linear-gradient(to bottom, #c4dfe6, #003b46);
+}
+
+#title {
+  font-size: 5rem;
+}
+
+#abstract {
+  width: 50%;
+  text-align: center;
+  color: white;
+  font-size: 1.5rem;
+}
+
+#scrollDown {
+  position: absolute;
+  bottom: 20px;
+  color: #b8b8b8;
+}
+
+#arrow {
+    border: solid #b8b8b8;
+    border-width: 0 1px 1px 0;
+    display: inline-block;
+    padding: 10px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+/* Years */
+
 .stepContainer {
   padding: 40px 0;
+  /* background-color: #5bc8ac */
+  background-color: #66a5ad;
+  color: white;
+}
+
+.stepContainer:nth-child(even) {
+  /* background-color: #8cd9c5; */
+  background-color: #c4dfe6;
+  color: black;
 }
 
 .step, .step-column {
@@ -71,6 +150,7 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .step-column p {
@@ -103,6 +183,80 @@ h2 {
   width: 100%;
   height: auto;
   border-radius: 30px;
+}
+
+#finalMessage {
+  min-height: 300px;
+  background-color: #003b46;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+#finalMessage h2 {
+  padding: 15px 0;
+  background: none;
+}
+
+#finalMessage p {
+  width: 60%;
+  text-align: center;
+}
+
+/* Portrait Phones */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (orientation: portrait) {
+
+    /* Message */
+    #title {
+      font-size: 3.5rem;
+      width: 80%;
+    }
+
+    #abstract {
+      width: 80%;
+      font-size: 1.4rem;
+    }
+
+    .alignRight p {
+      text-align: left;
+    }
+
+    .description {
+      width: 80%;
+      text-align: left;
+    }
+
+    .imageContainer img {
+      width: auto;
+      height: 150px;
+    }
+
+    #zooImage {
+      width: 80%;
+      height: auto;
+      margin: 0 auto;
+      margin-bottom: 30px
+    }
+    
+    #zooImage img {
+      width: 100%;
+      height: auto;
+      border-radius: 20px;
+    }
+
+    .step-column p {
+      width: 80%;
+    }
+
+    #skype-calls {
+      display: flex;
+      flex-direction: column-reverse;
+    }
 }
 
 

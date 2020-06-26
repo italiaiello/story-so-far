@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 const StartScreen = ({ onRouteChange }) => {
 
-    const password = "eggFace"
+    const password = "fermented"
     const [isValid, setIsValid] = useState(true)
     const [passwordEntered, setPasswordEntered] = useState('')
 
@@ -38,13 +38,13 @@ const StartScreen = ({ onRouteChange }) => {
     return (
         <section id="startScreen">
             <h2>Secret Message</h2>
-            <h3>Enter the password to unlock it</h3>
-            <form onSubmit={onPasswordSubmit} onKeyPress={onEnterPress}>
-                <label htmlFor="password">Password</label>
-                <input id="password" name="password" placeholder="Enter password..." onKeyPress={onEnterPress} onChange={onPasswordChange} />
-                <button onClick={onPasswordSubmit}>Submit</button>
-            </form>
-            <p className={isValid ? 'hide' : 'errorMessage show'}>That password is incorrect</p>
+            <article>
+                <form onSubmit={onPasswordSubmit} onKeyPress={onEnterPress}>
+                    <input id="password" name="password" type="password" placeholder="Enter password..." onKeyPress={onEnterPress} onChange={onPasswordChange} />
+                    <button id="submitButton" onClick={onPasswordSubmit}>Submit</button>
+                </form>
+                <p className={isValid ? 'hide' : 'errorMessage show'}>That password is incorrect</p>
+            </article>
         </section>
     )
 }
