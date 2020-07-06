@@ -3,6 +3,8 @@ import Emoji from '../Emoji/Emoji'
 import ZooImage from '../../images/zoo.JPG'
 import BumbleLogo from '../../images/bumbleLogo.svg'
 import SkypeCovid from '../../images/skype-covid.svg'
+import Kingsleys from '../../images/kingsleys.jpg'
+import Soccer from '../../images/soccer.jpg'
 
 const Year2020 = () => {
     return (
@@ -30,7 +32,7 @@ const Year2020 = () => {
                 </article>
             </article>
             <article className="stepContainer">
-                <article id="skype-calls" className="step">
+                <article id="skype-calls" className="step reverseFlex">
                     <p className="description">
                         Because of COVID-19, our following dates had to be done over Skype. It brought
                         us closer a lot faster which became especially clear when we finally got to
@@ -69,6 +71,34 @@ const Year2020 = () => {
                         have to ask you to be my girlfriend in a more formal way <Emoji symbol=" 😂 " /> but we just ended up agreeing to it so casually, which 
                         made it so much better <Emoji symbol=" 😊 " /> It was a real testament to how comfortable we've become with each other.
                     </p>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="kingsleys" className="step alignRight">
+                    <figure id="kingsleysImage" className="imageContainer rounded">
+                        <img src={Kingsleys} alt="Kingsleys Restaurant" />
+                    </figure>
+                    <p className="description">
+                    I met your family at Kingsleys, which was an important step in our relationship, and it was awesome to finally meet them all <Emoji symbol=" 🤗" /> 
+                    <br />
+                    <br />
+                    I wasn’t really expecting them to welcome me as well as they did (I’m always thinking the worst <Emoji symbol=" 😂" />) but they really made me 
+                    feel comfortable. You have an awesome family <Emoji symbol=" 😊" />
+                    </p>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="soccer" className="step reverseFlex">
+                    <p className="description">
+                    It has always been a dream of mine to have my girlfriend watch me play soccer, and I couldn’t be prouder to have you watching on from the sideline <Emoji symbol=" 🥰 " /> It was even better that we 
+                    actually won the game for your first time watching (I reckon you are definitely a lucky charm <Emoji symbol=" 😉" />)  and I think you gave me super powers during the game <Emoji symbol=" 🤗 " /> 
+                    <br />
+                    <br />
+                    Can’t wait to have you watching me play more games in the future. And I also can’t wait to watch you play netball when I get the chance <Emoji symbol=" 😊" />
+                    </p>
+                    <figure id="soccerBall" className="imageContainer rounded">
+                        <img src={Soccer} alt="Soccer ball" />
+                    </figure>
                 </article>
             </article>
             <article id="finalMessage">

@@ -35,6 +35,10 @@ span {
   font-size: 1.3rem
 }
 
+.rounded img {
+  border-radius: 20px;
+}
+
 /* Start Screen */
 
 #startScreen {
@@ -269,7 +273,7 @@ form {
       width: 90%;
     }
 
-    #skype-calls {
+    .reverseFlex {
       display: flex;
       flex-direction: column-reverse;
     }
