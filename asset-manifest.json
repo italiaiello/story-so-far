@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/story-so-far/static/css/main.0339de56.chunk.css",
-    "main.js": "/story-so-far/static/js/main.da81333b.chunk.js",
-    "main.js.map": "/story-so-far/static/js/main.da81333b.chunk.js.map",
+    "main.css": "/story-so-far/static/css/main.23a705a3.chunk.css",
+    "main.js": "/story-so-far/static/js/main.514b004f.chunk.js",
+    "main.js.map": "/story-so-far/static/js/main.514b004f.chunk.js.map",
     "runtime-main.js": "/story-so-far/static/js/runtime-main.d6cacf0a.js",
     "runtime-main.js.map": "/story-so-far/static/js/runtime-main.d6cacf0a.js.map",
-    "static/js/2.86a37fe7.chunk.js": "/story-so-far/static/js/2.86a37fe7.chunk.js",
-    "static/js/2.86a37fe7.chunk.js.map": "/story-so-far/static/js/2.86a37fe7.chunk.js.map",
+    "static/js/2.9d8c9313.chunk.js": "/story-so-far/static/js/2.9d8c9313.chunk.js",
+    "static/js/2.9d8c9313.chunk.js.map": "/story-so-far/static/js/2.9d8c9313.chunk.js.map",
     "index.html": "/story-so-far/index.html",
-    "precache-manifest.28d34ee35a7107b9580b94846fbf5bd0.js": "/story-so-far/precache-manifest.28d34ee35a7107b9580b94846fbf5bd0.js",
+    "precache-manifest.a9e5f8eb2bd8017be38c47e3035124fb.js": "/story-so-far/precache-manifest.a9e5f8eb2bd8017be38c47e3035124fb.js",
     "service-worker.js": "/story-so-far/service-worker.js",
-    "static/css/main.0339de56.chunk.css.map": "/story-so-far/static/css/main.0339de56.chunk.css.map",
-    "static/js/2.86a37fe7.chunk.js.LICENSE.txt": "/story-so-far/static/js/2.86a37fe7.chunk.js.LICENSE.txt",
+    "static/css/main.23a705a3.chunk.css.map": "/story-so-far/static/css/main.23a705a3.chunk.css.map",
+    "static/js/2.9d8c9313.chunk.js.LICENSE.txt": "/story-so-far/static/js/2.9d8c9313.chunk.js.LICENSE.txt",
     "static/media/bumbleLogo.svg": "/story-so-far/static/media/bumbleLogo.a296963d.svg",
     "static/media/kingsleys.jpg": "/story-so-far/static/media/kingsleys.506ba81a.jpg",
+    "static/media/scorecard.JPG": "/story-so-far/static/media/scorecard.4f5a834f.JPG",
     "static/media/skype-covid.svg": "/story-so-far/static/media/skype-covid.768c6a0c.svg",
     "static/media/soccer.jpg": "/story-so-far/static/media/soccer.cd413297.jpg",
     "static/media/zoo.JPG": "/story-so-far/static/media/zoo.185e3ca7.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.d6cacf0a.js",
-    "static/js/2.86a37fe7.chunk.js",
-    "static/css/main.0339de56.chunk.css",
-    "static/js/main.da81333b.chunk.js"
+    "static/js/2.9d8c9313.chunk.js",
+    "static/css/main.23a705a3.chunk.css",
+    "static/js/main.514b004f.chunk.js"
   ]
 }
