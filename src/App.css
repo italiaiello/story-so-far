@@ -179,19 +179,6 @@ form {
   width: 40%;
 }
 
-#zooImage {
-  width: 40%;
-  height: auto;
-  margin: 0 auto;
-  margin-bottom: 30px
-}
-
-#zooImage img {
-  width: 100%;
-  height: auto;
-  border-radius: 30px;
-}
-
 #finalMessage {
   min-height: 300px;
   background-color: #003b46;
@@ -210,6 +197,25 @@ form {
 #finalMessage p {
   width: 60%;
   text-align: center;
+}
+
+  /* 2020 */
+
+#scorecard img {
+  height: 300px;
+}
+
+#zooImage {
+  width: 40%;
+  height: auto;
+  margin: 0 auto;
+  margin-bottom: 30px
+}
+
+#zooImage img {
+  width: 100%;
+  height: auto;
+  border-radius: 30px;
 }
 
 /* Portrait Phones */

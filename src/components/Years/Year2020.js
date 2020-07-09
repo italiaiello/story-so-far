@@ -1,10 +1,12 @@
 import React from 'react'
 import Emoji from '../Emoji/Emoji'
-import ZooImage from '../../images/zoo.JPG'
-import BumbleLogo from '../../images/bumbleLogo.svg'
-import SkypeCovid from '../../images/skype-covid.svg'
-import Kingsleys from '../../images/kingsleys.jpg'
-import Soccer from '../../images/soccer.jpg'
+import ZooImage from '../../images/2020/zoo.JPG'
+import BumbleLogo from '../../images/2020/bumbleLogo.svg'
+import SkypeCovid from '../../images/2020/skype-covid.svg'
+import Kingsleys from '../../images/2020/kingsleys.jpg'
+import Soccer from '../../images/2020/soccer.jpg'
+import Scorecard from '../../images/2020/scorecard.JPG'
+
 
 const Year2020 = () => {
     return (
@@ -60,7 +62,7 @@ const Year2020 = () => {
                     </figure>
                     <p>The best date we had so far, without a doubt <Emoji symbol=" 😊" /> We spent the whole day together, and it was the first time when
                         we walked around hand-in-hand (it was such an amazing feeling <Emoji symbol=" 😉 " />). Whenever I would see you smiling at me,
-                        it was like we were in our own little bubble and nothing else mattered <Emoji symbol=" 🤗 " />
+                        it was like we were in our own little bubble and nothing else mattered <Emoji symbol=" 🤗" />
                         <br />
                         <br />
                         When it came time to grab some dinner, your idea to have a pizza picnic in the park was such an amazing idea. It's cute moments like these
@@ -99,6 +101,24 @@ const Year2020 = () => {
                     <figure id="soccerBall" className="imageContainer rounded">
                         <img src={Soccer} alt="Soccer ball" />
                     </figure>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="holeyMoley" className="step alignRight">
+                    <figure id="scorecard" className="imageContainer rounded">
+                        <img src={Scorecard} alt="Holey Moley Scorecard" />
+                    </figure>
+                    <p className="description">
+                    After all the banter and jokes we made about kicking each other’s asses, we finally had the chance to go to Holey Moley <Emoji symbol=" 🤗 " /> I was pretty surprised that it was so close the whole way through, I honestly 
+                    thought that I would easily win, but you definitely showed some amazing skills <Emoji symbol=" 😏" /> 
+                    <br />
+                    <br />
+                    Being super cocky got the better of me in the end, and you were just too good for me on the day. But don’t you worry, 
+                    I’m gonna make things right when we go bowling <Emoji symbol=" 😉" />
+                    <br />
+                    <br />
+                    I also finally tried brunch for the first time, and I can see why you like it, the food looks so fancy and colorful <Emoji symbol=" 😊 " /> I would love to go to brunch with you more often <Emoji symbol=" 🥰" />
+                    </p>
                 </article>
             </article>
             <article id="finalMessage">
