@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05b4d43a4cd072218afd790b459e8194",
+    "revision": "e5e9f9a61e5b7f1c435ff8fdf2ec9c2b",
     "url": "/story-so-far/index.html"
   },
   {
-    "revision": "071c05616f2fac4a2559",
-    "url": "/story-so-far/static/css/main.23a705a3.chunk.css"
+    "revision": "0f96ebd978d0ea9e4677",
+    "url": "/story-so-far/static/css/main.43c258ee.chunk.css"
   },
   {
-    "revision": "34eb831a01f1954ec431",
-    "url": "/story-so-far/static/js/2.9d8c9313.chunk.js"
+    "revision": "736ae3adab68b7923565",
+    "url": "/story-so-far/static/js/2.e97358dd.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/story-so-far/static/js/2.9d8c9313.chunk.js.LICENSE.txt"
+    "url": "/story-so-far/static/js/2.e97358dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "071c05616f2fac4a2559",
-    "url": "/story-so-far/static/js/main.514b004f.chunk.js"
+    "revision": "0f96ebd978d0ea9e4677",
+    "url": "/story-so-far/static/js/main.176ceccc.chunk.js"
   },
   {
     "revision": "953cb5a952e54499a765",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a296963d6e1225630f4ae777b699e620",
     "url": "/story-so-far/static/media/bumbleLogo.a296963d.svg"
+  },
+  {
+    "revision": "3a6ace2d3a01cc6a7aaf785ca8e24362",
+    "url": "/story-so-far/static/media/heels.3a6ace2d.JPG"
   },
   {
     "revision": "506ba81a4be1a159824b04e709a72ccf",
