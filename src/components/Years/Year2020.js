@@ -6,6 +6,7 @@ import SkypeCovid from '../../images/2020/skype-covid.svg'
 import Kingsleys from '../../images/2020/kingsleys.jpg'
 import Soccer from '../../images/2020/soccer.jpg'
 import Scorecard from '../../images/2020/scorecard.JPG'
+import Heels from '../../images/2020/heels.JPG'
 
 
 const Year2020 = () => {
@@ -105,7 +106,7 @@ const Year2020 = () => {
             </article>
             <article className="stepContainer">
                 <article id="holeyMoley" className="step alignRight">
-                    <figure id="scorecard" className="imageContainer rounded">
+                    <figure id="scorecard" className="imageContainer rounded skinnyImage">
                         <img src={Scorecard} alt="Holey Moley Scorecard" />
                     </figure>
                     <p className="description">
@@ -119,6 +120,20 @@ const Year2020 = () => {
                     <br />
                     I also finally tried brunch for the first time, and I can see why you like it, the food looks so fancy and colorful <Emoji symbol=" 😊 " /> I would love to go to brunch with you more often <Emoji symbol=" 🥰" />
                     </p>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="heels" className="step reverseFlex">
+                    <p className="description">
+                    If we lost Holey Moley, the stakes were that I had to wear my mum’s heels, and you had to wear your frog onesie with a bra on the outside <Emoji symbol=" 😂 " /> Since you kicked my ass, I had to slip into my mum’s heels (which were a surprisingly 
+                    good fit <Emoji symbol=" 🤪 " />) and send you a photo as proof. 
+                    <br />
+                    <br />
+                    Now let me tell you this, I’m never losing another bet to you again, so you better prepare yourself for bowling <Emoji symbol=" 😉" /> 
+                    </p>
+                    <figure id="meInHeels" className="imageContainer rounded skinnyImage">
+                        <img src={Heels} alt="Me in heels" />
+                    </figure>
                 </article>
             </article>
             <article id="finalMessage">

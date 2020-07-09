@@ -179,6 +179,10 @@ form {
   width: 40%;
 }
 
+.skinnyImage img {
+  height: 300px;
+}
+
 #finalMessage {
   min-height: 300px;
   background-color: #003b46;
@@ -200,10 +204,6 @@ form {
 }
 
   /* 2020 */
-
-#scorecard img {
-  height: 300px;
-}
 
 #zooImage {
   width: 40%;
