@@ -7,6 +7,8 @@ import Kingsleys from '../../images/2020/kingsleys.jpg'
 import Soccer from '../../images/2020/soccer.jpg'
 import Scorecard from '../../images/2020/scorecard.JPG'
 import Heels from '../../images/2020/heels.JPG'
+import BraFrogLady from '../../images/2020/braFrogLady.JPG'
+import RedShell from '../../images/2020/redShell.jpg'
 
 
 const Year2020 = () => {
@@ -133,6 +135,36 @@ const Year2020 = () => {
                     </p>
                     <figure id="meInHeels" className="imageContainer rounded skinnyImage">
                         <img src={Heels} alt="Me in heels" />
+                    </figure>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="bowling" className="step alignRight">
+                    <figure id="braFrogLady" className="imageContainer rounded skinnyImage">
+                        <img src={BraFrogLady} alt="Bra Frog Lady" />
+                    </figure>
+                    <p className="description">
+                    Our bowling date was really fun, well for me at least <Emoji symbol=" 🤪 " /> To be honest, I was surprised at how well you did (you even developed a new amazing bowling technique <Emoji symbol=" 😂" />) but I definitely reckon we both knew who was going to win before we 
+                    even started. 
+                    <br />
+                    <br />
+                    I think we were both happy that I won in the end anyway, considering the high stakes we were playing for. Since you won Holey Moley, you kept the forfeit of wearing your frog onesie with a bra on the outside <Emoji symbol=" 😏" /> 
+                    <br />
+                    <br />
+                    However, I needed a new one, and after a bit of brainstorming, we came up with one. I had to maintain an expressionless face and not touch you at all for the rest of the day (which would have been horrible <Emoji symbol=" 🥰" />)
+                    </p>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="marioKart" className="step reverseFlex">
+                    <p className="description">
+                    My winning ways didn’t stop with bowling though <Emoji symbol=" 😉 " /> When played against each other in Mario Kart at the Arcade, I pulled off arguably the best Mario Kart win in history by hitting you with a red shell right before the finish line <Emoji symbol=" 🤪" /> 
+                    <br />
+                    <br />
+                    I’m still mesmerised by how amazing that win was to this day. Your reaction to losing in such an evil way was absolutely priceless, it’ll be ingrained in my brain forever <Emoji symbol=" 😂" />
+                    </p>
+                    <figure id="redShell" className="imageContainer rounded">
+                        <img src={RedShell} alt="Red Shell Mario Kart" />
                     </figure>
                 </article>
             </article>
