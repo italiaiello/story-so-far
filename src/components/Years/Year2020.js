@@ -151,7 +151,10 @@ const Year2020 = () => {
                     I think we were both happy that I won in the end anyway, considering the high stakes we were playing for. Since you won Holey Moley, you kept the forfeit of wearing your frog onesie with a bra on the outside <Emoji symbol=" 😏" /> 
                     <br />
                     <br />
-                    However, I needed a new one, and after a bit of brainstorming, we came up with one. I had to maintain an expressionless face and not touch you at all for the rest of the day (which would have been horrible <Emoji symbol=" 🥰" />)
+                    My new one was that I had to maintain an expressionless face and not touch you at all for the rest of the day (which would have been horrible <Emoji symbol=" 🥰" />)
+                    <br />
+                    <br />
+                    As shown in the image, you had to transform into Bra-Frog Lady, and somehow you still look super cute. I think I need to make out with Bra-Frog Lady soon <Emoji symbol=" 😉" />
                     </p>
                 </article>
             </article>
