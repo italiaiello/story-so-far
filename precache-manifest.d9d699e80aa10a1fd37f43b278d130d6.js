@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5e9f9a61e5b7f1c435ff8fdf2ec9c2b",
+    "revision": "1b56aa2a50baf6d00686f377bfb1af40",
     "url": "/story-so-far/index.html"
   },
   {
-    "revision": "0f96ebd978d0ea9e4677",
+    "revision": "ad1f7a496e2a22e2333d",
     "url": "/story-so-far/static/css/main.43c258ee.chunk.css"
   },
   {
-    "revision": "736ae3adab68b7923565",
-    "url": "/story-so-far/static/js/2.e97358dd.chunk.js"
+    "revision": "e2a50824d7273391e9b2",
+    "url": "/story-so-far/static/js/2.81cf10a1.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/story-so-far/static/js/2.e97358dd.chunk.js.LICENSE.txt"
+    "url": "/story-so-far/static/js/2.81cf10a1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f96ebd978d0ea9e4677",
-    "url": "/story-so-far/static/js/main.176ceccc.chunk.js"
+    "revision": "ad1f7a496e2a22e2333d",
+    "url": "/story-so-far/static/js/main.9ccf4943.chunk.js"
   },
   {
     "revision": "953cb5a952e54499a765",
     "url": "/story-so-far/static/js/runtime-main.d6cacf0a.js"
+  },
+  {
+    "revision": "ae54f927e3e482d0cfa22c9e59619e03",
+    "url": "/story-so-far/static/media/braFrogLady.ae54f927.JPG"
   },
   {
     "revision": "a296963d6e1225630f4ae777b699e620",
@@ -34,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "506ba81a4be1a159824b04e709a72ccf",
     "url": "/story-so-far/static/media/kingsleys.506ba81a.jpg"
+  },
+  {
+    "revision": "af7c36d72148c31475ceb06ac16e5909",
+    "url": "/story-so-far/static/media/redShell.af7c36d7.jpg"
   },
   {
     "revision": "4f5a834fe47fc82846210b63f2e910dc",
