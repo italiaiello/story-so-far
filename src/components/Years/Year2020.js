@@ -9,6 +9,7 @@ import Scorecard from '../../images/2020/scorecard.JPG'
 import Heels from '../../images/2020/heels.JPG'
 import BraFrogLady from '../../images/2020/braFrogLady.JPG'
 import RedShell from '../../images/2020/redShell.jpg'
+import Party from '../../images/2020/party.JPG'
 
 
 const Year2020 = () => {
@@ -169,6 +170,24 @@ const Year2020 = () => {
                     <figure id="redShell" className="imageContainer rounded">
                         <img src={RedShell} alt="Red Shell Mario Kart" />
                     </figure>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="bowling" className="step alignRight">
+                    <figure id="braFrogLady" className="imageContainer rounded skinnyImage">
+                        <img src={Party} alt="Bra Frog Lady" />
+                    </figure>
+                    <p className="description">
+                    I never would have imagined celebrating my 21st with such an amazing girl by my side, but having you there made the day so much more special <Emoji symbol=" 🤗 " /> You just seemed to fit in to the family so well, everyone loved you instantly, and I knew they would love you cause you’re just so 
+                    damn phenomenal <Emoji symbol=" 😏" /> 
+                    <br />
+                    <br />
+                    Everything worked out perfectly too <Emoji symbol=" 😏 " /> Obviously my actual 21st was May 17th, but I reckon COVID almost acted like a wingman, cause it would have definitely been a bit early for you to meet my parents at the party if it happened in May, and we weren’t as comfortable with each other compared to now <Emoji symbol=" 😊" />
+                    <br />
+                    <br />
+                    I love having this photo on my phone, it makes me smile every time I see it. I think the world of you Bri, you’re awesome <Emoji symbol=" 🥰" />
+
+                    </p>
                 </article>
             </article>
             <article id="finalMessage">
