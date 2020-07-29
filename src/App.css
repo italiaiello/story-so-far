@@ -218,6 +218,16 @@ form {
   border-radius: 30px;
 }
 
+#partyImage {
+  width: 40%;
+  height: auto;
+}
+
+#partyImage img {
+  width: 100%;
+  height: auto;
+}
+
 /* Portrait Phones */
 @media only screen 
   and (min-device-width: 320px) 
@@ -273,6 +283,21 @@ form {
       width: 100%;
       height: auto;
       border-radius: 20px;
+    }
+
+    #redShell {
+      margin: 20px;
+    }
+
+    #partyImage {
+      width: 100%;
+      height: auto;
+      margin: 15px;
+    }
+    
+    #partyImage img {
+      width: 100%;
+      height: auto;
     }
 
     .step-column p {

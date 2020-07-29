@@ -173,9 +173,9 @@ const Year2020 = () => {
                 </article>
             </article>
             <article className="stepContainer">
-                <article id="bowling" className="step alignRight">
-                    <figure id="braFrogLady" className="imageContainer rounded skinnyImage">
-                        <img src={Party} alt="Bra Frog Lady" />
+                <article id="party" className="step alignRight">
+                    <figure id="partyImage" className="imageContainer rounded">
+                        <img src={Party} alt="Us at my 21st" />
                     </figure>
                     <p className="description">
                     I never would have imagined celebrating my 21st with such an amazing girl by my side, but having you there made the day so much more special <Emoji symbol=" 🤗 " /> You just seemed to fit in to the family so well, everyone loved you instantly, and I knew they would love you cause you’re just so 
