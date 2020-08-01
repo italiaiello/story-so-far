@@ -1,5 +1,10 @@
 import React from 'react'
+
+// Components
 import Emoji from '../Emoji/Emoji'
+import Slider from '../Slider/Slider'
+
+// Images
 import ZooImage from '../../images/2020/zoo.JPG'
 import BumbleLogo from '../../images/2020/bumbleLogo.svg'
 import SkypeCovid from '../../images/2020/skype-covid.svg'
@@ -10,6 +15,10 @@ import Heels from '../../images/2020/heels.JPG'
 import BraFrogLady from '../../images/2020/braFrogLady.JPG'
 import RedShell from '../../images/2020/redShell.jpg'
 import Party from '../../images/2020/party.JPG'
+import RedDress from '../../images/2020/redDress.JPG'
+import PinkDress from '../../images/2020/pinkDress.JPG'
+import PurpleDress from '../../images/2020/purpleDress.JPG'
+import Onesie from '../../images/2020/onesie.JPG'
 
 
 const Year2020 = () => {
@@ -186,7 +195,26 @@ const Year2020 = () => {
                     <br />
                     <br />
                     I love having this photo on my phone, it makes me smile every time I see it. I think the world of you Bri, you’re awesome <Emoji symbol=" 🥰" />
-
+                    </p>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article className="step-column">
+                    <Slider imageURLs={[RedDress, PinkDress, PurpleDress, Onesie]} />
+                    <p>
+                        It was great meeting your close friend Tash, and it was awesome spending the rest of the day with you at home too <Emoji symbol=" 🤗" />
+                        <br />
+                        <br />
+                        Making that pavlova together was so damn cool, especially since I finally learned how to crack an egg (which seemed to amuse you quite a bit <Emoji symbol=" 😂" />) And my gosh it tasted good, it was by far the most amazing pavlova I’ve ever tasted in my life <Emoji symbol=" 😋 " />
+                        <br />
+                        <br />
+                        I never imagined that in 2020 I would be in my girlfriend's room wearing her dresses and frog onesie while posing for the camera <Emoji symbol=" 😆 " /> I don't know about you, but I reckon I look pretty sexy in them (especially the red dress and the onesie <Emoji symbol=" 😉" />)
+                        <br />
+                        <br />
+                        Then we got some food from Grill’d (bloody phenomenal burgers and chips <Emoji symbol=" 😏" />), cuddled on your bed and watched Coming to America <Emoji symbol=" 😊 " /> Having you resting on my shoulder and holding each other’s hand throughout the movie was so awesome, I wished we could just stay like that forever <Emoji symbol=" 😚" />
+                        <br />
+                        <br />
+                        It just amazed me how natural it felt to be with you and your family at home. I’d love to do it more often <Emoji symbol=" 🥰" />
                     </p>
                 </article>
             </article>

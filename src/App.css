@@ -132,6 +132,42 @@ form {
   -webkit-transform: rotate(45deg);
 }
 
+/* Slider */
+
+.slider {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.sliderArrow {
+  border: solid #66a5ad;
+  border-width: 0 4px 4px 0;
+  display: inline-block;
+  padding: 20px;
+  cursor: pointer;
+}
+
+#leftArrow {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+#rightArrow {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.dressImage {
+  width: 40%;
+  margin: 10px 0;
+}
+
+.dressImage img {
+  width: 100%;
+}
+
 /* Years */
 
 .stepContainer {
@@ -258,6 +294,17 @@ form {
     #arrow {
       position: relative;
       margin-top: 40px;
+    }
+
+    /* Slider */
+
+    .dressImage {
+      width: 70%;
+      margin: 10px 0;
+    }
+
+    .sliderArrow {
+      border-width: 0 4px 4px 0;
     }
 
     /* Years */
