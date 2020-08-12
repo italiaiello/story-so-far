@@ -19,6 +19,7 @@ import RedDress from '../../images/2020/redDress.JPG'
 import PinkDress from '../../images/2020/pinkDress.JPG'
 import PurpleDress from '../../images/2020/purpleDress.JPG'
 import Onesie from '../../images/2020/onesie.JPG'
+import Picnic from '../../images/2020/picnic.JPG'
 
 
 const Year2020 = () => {
@@ -216,6 +217,22 @@ const Year2020 = () => {
                         <br />
                         It just amazed me how natural it felt to be with you and your family at home. I’d love to do it more often <Emoji symbol=" 🥰" />
                     </p>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="picnic" className="step reverseFlex">
+                    <p className="description">
+                    We had our first picnic in Cabarita Park, and it was such an amazing experience. Not only was it our first picnic, but it was the first one I’ve ever been on as well. After that experience, I’d definitely love to have more picnics with you in the future.
+                    <br />
+                    <br />
+                    Also, who knew strawberries and cheese went so well together? (Granted it was the cheese that tasted the least like cheese, but I stand by it).
+                    <br />
+                    <br />
+                    The more time I spend with you, the more amazing you prove to be (except when you kick my ass in the Monopoly Deal card game)
+                    </p>
+                    <figure id="picnicDate" className="imageContainer rounded">
+                        <img src={Picnic} alt="Our first picnic date" />
+                    </figure>
                 </article>
             </article>
             <article id="finalMessage">
