@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {
 
-  const [route, setRoute] = useState('start')
+  const [route, setRoute] = useState('home')
 
   const onRouteChange = newRoute => {
     setRoute(newRoute)

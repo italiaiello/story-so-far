@@ -222,13 +222,13 @@ const Year2020 = () => {
             <article className="stepContainer">
                 <article id="picnic" className="step reverseFlex">
                     <p className="description">
-                    We had our first picnic in Cabarita Park, and it was such an amazing experience. Not only was it our first picnic, but it was the first one I’ve ever been on as well. After that experience, I’d definitely love to have more picnics with you in the future.
+                    We had our first picnic in Cabarita Park, and it was such an amazing experience <Emoji symbol=" 😊 " /> Not only was it our first picnic, but it was the first one I’ve ever been on as well. After that experience, I’d definitely love to have more picnics with you in the future <Emoji symbol=" 🤗" />
                     <br />
                     <br />
-                    Also, who knew strawberries and cheese went so well together? (Granted it was the cheese that tasted the least like cheese, but I stand by it).
+                    Also, who knew strawberries and cheese went so well together? (Granted it was the cheese that tasted the least like cheese, but I stand by it <Emoji symbol=" 🤪" />).
                     <br />
                     <br />
-                    The more time I spend with you, the more amazing you prove to be (except when you kick my ass in the Monopoly Deal card game)
+                    The more time I spend with you, the more amazing you prove to be (except when you kick my ass in the Monopoly Deal card game <Emoji symbol=" 😅😂" />)
                     </p>
                     <figure id="picnicDate" className="imageContainer rounded">
                         <img src={Picnic} alt="Our first picnic date" />
