@@ -219,6 +219,10 @@ form {
   height: 300px;
 }
 
+#photoBoothImage img {
+  height: 450px;
+}
+
 #finalMessage {
   min-height: 300px;
   background-color: #003b46;
@@ -267,7 +271,7 @@ form {
 /* Portrait Phones */
 @media only screen 
   and (min-device-width: 320px) 
-  and (max-device-width: 480px)
+  and (max-device-width: 600px)
   and (orientation: portrait) {
 
     .alignRight p {
@@ -354,6 +358,10 @@ form {
     .reverseFlex {
       display: flex;
       flex-direction: column-reverse;
+    }
+
+    #photoBoothImage img {
+      height: 300px;
     }
 
     #finalMessage p {

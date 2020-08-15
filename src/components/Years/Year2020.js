@@ -20,6 +20,8 @@ import PinkDress from '../../images/2020/pinkDress.JPG'
 import PurpleDress from '../../images/2020/purpleDress.JPG'
 import Onesie from '../../images/2020/onesie.JPG'
 import Picnic from '../../images/2020/picnic.JPG'
+import PhotoBooth from '../../images/2020/photoBooth.JPG'
+
 
 
 const Year2020 = () => {
@@ -233,6 +235,25 @@ const Year2020 = () => {
                     <figure id="picnicDate" className="imageContainer rounded">
                         <img src={Picnic} alt="Our first picnic date" />
                     </figure>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="photoBooth" className="step alignRight">
+                    <figure id="photoBoothImage" className="imageContainer rounded skinnyImage">
+                        <img src={PhotoBooth} alt="Trying out the photobooth" />
+                    </figure>
+                    <p className="description">
+                    After getting my ass kicked in Holey Moley the first time, I was adamant to make up for it <Emoji symbol=" 😏 " /> So, we had another battle at the Chatswood one. I think this time around was a much better reflection of our skill levels <Emoji symbol=" 🤪 " />(that pendulum one really screwed you up <Emoji symbol=" 😂" />).
+                    <br />
+                    <br />
+                    Then we played pool together and you actually weren’t as bad as you made yourself out to be. I was pretty impressed <Emoji symbol=" 😊" />
+                    <br />
+                    <br />
+                    Doing the arcade is always a must, but I think we’ve agreed that we’ll never go near that dancing one again <Emoji symbol=" 😆" /> And as usual, we had our super tense air hockey battle which I really love since you look super sexy when you do a little celebratory dance after getting a point <Emoji symbol=" 😉" />
+                    <br />
+                    <br />
+                    One of the highlights was using that photobooth <Emoji symbol=" 🤗 " /> We messed it up a little the first time, but once we got the hang of it we were amazing <Emoji symbol=" 🥰 " /> (you look super sexy in every photo <Emoji symbol=" 😏" />). And damn we’re amazing kissers <Emoji symbol=" 😚" />
+                    </p>
                 </article>
             </article>
             <article id="finalMessage">
