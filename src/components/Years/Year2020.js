@@ -21,6 +21,7 @@ import PurpleDress from '../../images/2020/purpleDress.JPG'
 import Onesie from '../../images/2020/onesie.JPG'
 import Picnic from '../../images/2020/picnic.JPG'
 import PhotoBooth from '../../images/2020/photoBooth.JPG'
+import Trivia from '../../images/2020/trivia.JPG'
 
 
 
@@ -232,16 +233,29 @@ const Year2020 = () => {
                     <br />
                     The more time I spend with you, the more amazing you prove to be (except when you kick my ass in the Monopoly Deal card game <Emoji symbol=" 😅😂" />)
                     </p>
-                    <figure id="picnicDate" className="imageContainer rounded">
+                    <figure id="picnicDate" className="imageContainer rounded skinnyImage">
                         <img src={Picnic} alt="Our first picnic date" />
                     </figure>
                 </article>
             </article>
             <article className="stepContainer">
-                <article id="photoBooth" className="step alignRight">
-                    <figure id="photoBoothImage" className="imageContainer rounded skinnyImage">
-                        <img src={PhotoBooth} alt="Trying out the photobooth" />
+                <article id="trivia" className="step alignRight">
+                    <figure id="triviaSheet" className="imageContainer rounded skinnyImage">
+                        <img src={Trivia} alt="Our first trivia date" />
                     </figure>
+                    <p className="description">
+                    We went to the Willoughby Hotel for dinner, which I was excited to try since you had so many good things to say about it <Emoji symbol=" 😊 " /> And you weren’t wrong, the food was great, the atmosphere was awesome, just a really cool place <Emoji symbol=" 😎" />
+                    <br />
+                    <br />
+                    The best part had to be the unexpected trivia we played, our first of many as a couple I’m sure <Emoji symbol=" 😏 " /> It didn’t really turn out as awesome as we wanted it to be, we got absolutely rinsed by the other teams <Emoji symbol=" 😂" />
+                    <br />
+                    <br />
+                    However, the experience alone was pretty special, and as long as you’re by my side, I’m always a winner <Emoji symbol=" 🥰" />
+                    </p>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="photoBooth" className="step reverseFlex">
                     <p className="description">
                     After getting my ass kicked in Holey Moley the first time, I was adamant to make up for it <Emoji symbol=" 😏 " /> So, we had another battle at the Chatswood one. I think this time around was a much better reflection of our skill levels <Emoji symbol=" 🤪 " />(that pendulum one really screwed you up <Emoji symbol=" 😂" />).
                     <br />
@@ -254,6 +268,9 @@ const Year2020 = () => {
                     <br />
                     One of the highlights was using that photobooth <Emoji symbol=" 🤗 " /> We messed it up a little the first time, but once we got the hang of it we were amazing <Emoji symbol=" 🥰 " /> (you look super sexy in every photo <Emoji symbol=" 😏" />). And damn we’re amazing kissers <Emoji symbol=" 😚" />
                     </p>
+                    <figure id="photoBoothImage" className="imageContainer rounded skinnyImage">
+                        <img src={PhotoBooth} alt="Trying out the photobooth" />
+                    </figure>
                 </article>
             </article>
             <article id="finalMessage">
