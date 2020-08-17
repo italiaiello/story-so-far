@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/story-so-far/static/css/main.7262a160.chunk.css",
-    "main.js": "/story-so-far/static/js/main.13356396.chunk.js",
-    "main.js.map": "/story-so-far/static/js/main.13356396.chunk.js.map",
+    "main.js": "/story-so-far/static/js/main.3b5c6b64.chunk.js",
+    "main.js.map": "/story-so-far/static/js/main.3b5c6b64.chunk.js.map",
     "runtime-main.js": "/story-so-far/static/js/runtime-main.d6cacf0a.js",
     "runtime-main.js.map": "/story-so-far/static/js/runtime-main.d6cacf0a.js.map",
-    "static/js/2.8c898395.chunk.js": "/story-so-far/static/js/2.8c898395.chunk.js",
-    "static/js/2.8c898395.chunk.js.map": "/story-so-far/static/js/2.8c898395.chunk.js.map",
+    "static/js/2.9080d218.chunk.js": "/story-so-far/static/js/2.9080d218.chunk.js",
+    "static/js/2.9080d218.chunk.js.map": "/story-so-far/static/js/2.9080d218.chunk.js.map",
     "index.html": "/story-so-far/index.html",
-    "precache-manifest.693498bd483d5f5012e3d2fb1970f363.js": "/story-so-far/precache-manifest.693498bd483d5f5012e3d2fb1970f363.js",
+    "precache-manifest.e146795255de8f9b92530ad28ef03f23.js": "/story-so-far/precache-manifest.e146795255de8f9b92530ad28ef03f23.js",
     "service-worker.js": "/story-so-far/service-worker.js",
     "static/css/main.7262a160.chunk.css.map": "/story-so-far/static/css/main.7262a160.chunk.css.map",
-    "static/js/2.8c898395.chunk.js.LICENSE.txt": "/story-so-far/static/js/2.8c898395.chunk.js.LICENSE.txt",
+    "static/js/2.9080d218.chunk.js.LICENSE.txt": "/story-so-far/static/js/2.9080d218.chunk.js.LICENSE.txt",
     "static/media/braFrogLady.JPG": "/story-so-far/static/media/braFrogLady.ae54f927.JPG",
     "static/media/bumbleLogo.svg": "/story-so-far/static/media/bumbleLogo.a296963d.svg",
     "static/media/heels.JPG": "/story-so-far/static/media/heels.3a6ace2d.JPG",
     "static/media/kingsleys.jpg": "/story-so-far/static/media/kingsleys.506ba81a.jpg",
     "static/media/onesie.JPG": "/story-so-far/static/media/onesie.7a43abb6.JPG",
     "static/media/party.JPG": "/story-so-far/static/media/party.f3a30a14.JPG",
-    "static/media/photoBooth.JPG": "/story-so-far/static/media/photoBooth.717c485f.JPG",
-    "static/media/picnic.JPG": "/story-so-far/static/media/picnic.56ec8983.JPG",
+    "static/media/photoBooth.JPG": "/story-so-far/static/media/photoBooth.92b2e945.JPG",
+    "static/media/picnic.JPG": "/story-so-far/static/media/picnic.28a1de14.JPG",
     "static/media/pinkDress.JPG": "/story-so-far/static/media/pinkDress.39883e28.JPG",
     "static/media/purpleDress.JPG": "/story-so-far/static/media/purpleDress.1bf0324e.JPG",
     "static/media/redDress.JPG": "/story-so-far/static/media/redDress.5812e001.JPG",
@@ -27,12 +27,13 @@
     "static/media/scorecard.JPG": "/story-so-far/static/media/scorecard.4f5a834f.JPG",
     "static/media/skype-covid.svg": "/story-so-far/static/media/skype-covid.768c6a0c.svg",
     "static/media/soccer.jpg": "/story-so-far/static/media/soccer.cd413297.jpg",
+    "static/media/trivia.JPG": "/story-so-far/static/media/trivia.44b880b0.JPG",
     "static/media/zoo.JPG": "/story-so-far/static/media/zoo.185e3ca7.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.d6cacf0a.js",
-    "static/js/2.8c898395.chunk.js",
+    "static/js/2.9080d218.chunk.js",
     "static/css/main.7262a160.chunk.css",
-    "static/js/main.13356396.chunk.js"
+    "static/js/main.3b5c6b64.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e4210f6ad0ca5c531e695d912f5d586",
+    "revision": "f8c02b64ba5f9f5d89634c8eba5efd95",
     "url": "/story-so-far/index.html"
   },
   {
-    "revision": "7e2b05a9df226b1646b9",
+    "revision": "ee513bb7ca4178243973",
     "url": "/story-so-far/static/css/main.7262a160.chunk.css"
   },
   {
-    "revision": "bbdcb389243eba70ccee",
-    "url": "/story-so-far/static/js/2.8c898395.chunk.js"
+    "revision": "0face0dd9229da906cb2",
+    "url": "/story-so-far/static/js/2.9080d218.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/story-so-far/static/js/2.8c898395.chunk.js.LICENSE.txt"
+    "url": "/story-so-far/static/js/2.9080d218.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7e2b05a9df226b1646b9",
-    "url": "/story-so-far/static/js/main.13356396.chunk.js"
+    "revision": "ee513bb7ca4178243973",
+    "url": "/story-so-far/static/js/main.3b5c6b64.chunk.js"
   },
   {
     "revision": "953cb5a952e54499a765",
@@ -48,12 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/story-so-far/static/media/party.f3a30a14.JPG"
   },
   {
-    "revision": "717c485f32f80fc8f92040577fa39026",
-    "url": "/story-so-far/static/media/photoBooth.717c485f.JPG"
+    "revision": "92b2e94588667f50c9b0becdfc88f6ad",
+    "url": "/story-so-far/static/media/photoBooth.92b2e945.JPG"
   },
   {
-    "revision": "56ec898335f1a3e60a08886f2cc2cba9",
-    "url": "/story-so-far/static/media/picnic.56ec8983.JPG"
+    "revision": "28a1de14aa004f754093a28dcee2bc31",
+    "url": "/story-so-far/static/media/picnic.28a1de14.JPG"
   },
   {
     "revision": "39883e287e9395eb997be6182bf0bb24",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cd413297e4a4f0bf42aded9c7cbbad83",
     "url": "/story-so-far/static/media/soccer.cd413297.jpg"
+  },
+  {
+    "revision": "44b880b01fb451da104c09be0a242963",
+    "url": "/story-so-far/static/media/trivia.44b880b0.JPG"
   },
   {
     "revision": "185e3ca7f24899c7515a89ddd3bc49d2",
