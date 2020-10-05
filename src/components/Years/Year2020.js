@@ -22,6 +22,7 @@ import Onesie from '../../images/2020/onesie.JPG'
 import Picnic from '../../images/2020/picnic.JPG'
 import PhotoBooth from '../../images/2020/photoBooth.JPG'
 import Trivia from '../../images/2020/trivia.JPG'
+import SocialHideout from '../../images/2020/social-hideout.JPG'
 
 
 
@@ -271,6 +272,25 @@ const Year2020 = () => {
                     <figure id="photoBoothImage" className="imageContainer rounded skinnyImage">
                         <img src={PhotoBooth} alt="Trying out the photobooth" />
                     </figure>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="brunch" className="step alignRight">
+                    <figure id="brunchFood" className="imageContainer rounded skinnyImage">
+                        <img src={SocialHideout} alt="Brunch at social hideout" />
+                    </figure>
+                    <p className="description">
+                    I had always seen stories from my friends on Instagram where they were at some cool looking brunch place, or they had a plate of food that looked so damn exquisite, but they never put the name of the bloody place in there <Emoji symbol=" 😂" />
+                    <br />
+                    <br />
+                    As soon as I had finally found Social Hideout, I knew we had to try it <Emoji symbol=" 🤗" /> It was such a beautiful place, and I couldn’t have dined with a more beautiful girl <Emoji symbol=" 🥰" />
+                    <br />
+                    <br />
+                    When I saw your plate come I was amazed at how awesome it looked, and I remember trying to think about how they would make pink risotto look as cool as that <Emoji symbol=" 😆" /> But I was so surprised when it came out cause it looked bloody amazing <Emoji symbol=" 😎" /> (I’m still not 100% sure if that white thing was cheese <Emoji symbol=" 🤪" />)
+                    <br />
+                    <br />
+                    I can’t wait to try other awesome brunch places with you <Emoji symbol=" 😘" />
+                    </p>
                 </article>
             </article>
             <article id="finalMessage">

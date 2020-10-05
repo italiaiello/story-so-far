@@ -219,10 +219,6 @@ form {
   height: 300px;
 }
 
-#photoBoothImage img {
-  height: 450px;
-}
-
 #finalMessage {
   min-height: 300px;
   background-color: #003b46;
@@ -266,6 +262,14 @@ form {
 #partyImage img {
   width: 100%;
   height: auto;
+}
+
+#photoBoothImage img {
+  height: 450px;
+}
+
+#brunchFood img {
+  height: 450px;
 }
 
 /* Portrait Phones */
@@ -361,6 +365,10 @@ form {
     }
 
     #photoBoothImage img {
+      height: 300px;
+    }
+
+    #brunchFood img {
       height: 300px;
     }
 
