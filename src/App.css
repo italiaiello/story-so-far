@@ -272,6 +272,16 @@ form {
   height: 450px;
 }
 
+#galloImage {
+  width: 30%;
+  height: auto;
+}
+
+#galloImage img {
+  width: 100%;
+  height: auto;
+}
+
 /* Portrait Phones */
 @media only screen 
   and (min-device-width: 320px) 
@@ -370,6 +380,10 @@ form {
 
     #brunchFood img {
       height: 300px;
+    }
+
+    #galloImage {
+      width: 70%;
     }
 
     #finalMessage p {

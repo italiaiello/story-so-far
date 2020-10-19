@@ -23,6 +23,7 @@ import Picnic from '../../images/2020/picnic.JPG'
 import PhotoBooth from '../../images/2020/photoBooth.JPG'
 import Trivia from '../../images/2020/trivia.JPG'
 import SocialHideout from '../../images/2020/social-hideout.JPG'
+import Gallo from '../../images/2020/gallo.JPG'
 
 
 
@@ -291,6 +292,22 @@ const Year2020 = () => {
                     <br />
                     I can’t wait to try other awesome brunch places with you <Emoji symbol=" 😘" />
                     </p>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="gallo" className="step reverseFlex">
+                    <p className="description">
+                    I love how thoughtful you are, and receiving Gallo as a gift was such a thoughtful gift <Emoji symbol=" 🤗 " /> I love looking at him because it always reminds me of you <Emoji symbol=" 🥰" />                   
+                    <br />
+                    <br />
+                    I reckon I’ll definitely keep it alive a bit longer than the love fern in ‘How to Lose a Guy in 10 Days’ <Emoji symbol=" 🤪" />                   
+                    <br />
+                    <br />
+                    I love you so much Bri <Emoji symbol=" 😘" />                
+                    </p>
+                    <figure id="galloImage" className="imageContainer rounded">
+                        <img src={Gallo} alt="Gallo the Succulent Rooster" />
+                    </figure>
                 </article>
             </article>
             <article id="finalMessage">
