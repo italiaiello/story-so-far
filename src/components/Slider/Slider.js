@@ -2,8 +2,6 @@ import React, { useState } from 'react'
 
 const Slider = ({ imageURLs }) => {
 
-    console.log(imageURLs)
-
     // Keeps track of which image is being grabbed from imageURLs array
     const [index, setIndex] = useState(0)
 
