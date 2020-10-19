@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/story-so-far/static/css/main.343f87a1.chunk.css",
-    "main.js": "/story-so-far/static/js/main.9879d4bc.chunk.js",
-    "main.js.map": "/story-so-far/static/js/main.9879d4bc.chunk.js.map",
+    "main.css": "/story-so-far/static/css/main.c862e9ef.chunk.css",
+    "main.js": "/story-so-far/static/js/main.ae0e33e7.chunk.js",
+    "main.js.map": "/story-so-far/static/js/main.ae0e33e7.chunk.js.map",
     "runtime-main.js": "/story-so-far/static/js/runtime-main.d6cacf0a.js",
     "runtime-main.js.map": "/story-so-far/static/js/runtime-main.d6cacf0a.js.map",
-    "static/js/2.3a023424.chunk.js": "/story-so-far/static/js/2.3a023424.chunk.js",
-    "static/js/2.3a023424.chunk.js.map": "/story-so-far/static/js/2.3a023424.chunk.js.map",
+    "static/js/2.08724a32.chunk.js": "/story-so-far/static/js/2.08724a32.chunk.js",
+    "static/js/2.08724a32.chunk.js.map": "/story-so-far/static/js/2.08724a32.chunk.js.map",
     "index.html": "/story-so-far/index.html",
-    "precache-manifest.46e4b03665e9906c97a90054ad7bc646.js": "/story-so-far/precache-manifest.46e4b03665e9906c97a90054ad7bc646.js",
+    "precache-manifest.e743149a2d13264720df6a273ac4fc77.js": "/story-so-far/precache-manifest.e743149a2d13264720df6a273ac4fc77.js",
     "service-worker.js": "/story-so-far/service-worker.js",
-    "static/css/main.343f87a1.chunk.css.map": "/story-so-far/static/css/main.343f87a1.chunk.css.map",
-    "static/js/2.3a023424.chunk.js.LICENSE.txt": "/story-so-far/static/js/2.3a023424.chunk.js.LICENSE.txt",
+    "static/css/main.c862e9ef.chunk.css.map": "/story-so-far/static/css/main.c862e9ef.chunk.css.map",
+    "static/js/2.08724a32.chunk.js.LICENSE.txt": "/story-so-far/static/js/2.08724a32.chunk.js.LICENSE.txt",
     "static/media/braFrogLady.JPG": "/story-so-far/static/media/braFrogLady.ae54f927.JPG",
     "static/media/bumbleLogo.svg": "/story-so-far/static/media/bumbleLogo.a296963d.svg",
+    "static/media/gallo.JPG": "/story-so-far/static/media/gallo.5fe30788.JPG",
     "static/media/heels.JPG": "/story-so-far/static/media/heels.3a6ace2d.JPG",
     "static/media/kingsleys.jpg": "/story-so-far/static/media/kingsleys.506ba81a.jpg",
     "static/media/onesie.JPG": "/story-so-far/static/media/onesie.7a43abb6.JPG",
@@ -33,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d6cacf0a.js",
-    "static/js/2.3a023424.chunk.js",
-    "static/css/main.343f87a1.chunk.css",
-    "static/js/main.9879d4bc.chunk.js"
+    "static/js/2.08724a32.chunk.js",
+    "static/css/main.c862e9ef.chunk.css",
+    "static/js/main.ae0e33e7.chunk.js"
   ]
 }
