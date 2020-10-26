@@ -24,6 +24,7 @@ import PhotoBooth from '../../images/2020/photoBooth.JPG'
 import Trivia from '../../images/2020/trivia.JPG'
 import SocialHideout from '../../images/2020/social-hideout.JPG'
 import Gallo from '../../images/2020/gallo.JPG'
+import NailPolish from '../../images/2020/nailPolish.JPG'
 
 
 
@@ -308,6 +309,22 @@ const Year2020 = () => {
                     <figure id="galloImage" className="imageContainer rounded">
                         <img src={Gallo} alt="Gallo the Succulent Rooster" />
                     </figure>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="nailPolish" className="step alignRight">
+                    <figure id="brunchFood" className="imageContainer rounded skinnyImage">
+                        <img src={NailPolish} alt="Nail Polish" />
+                    </figure>
+                    <p className="description">
+                    I don’t know why I was so excited to get my nails painted, but I really enjoyed it. I might do it more often. <Emoji symbol=" 😂 " /> Also, my mum said that I actually have very nice, feminine looking fingers, and in the image, I have to say, my fingers look SEXY <Emoji symbol=" 😏" />                   
+                    <br />
+                    <br />
+                    However, because of my new sexy looking hands, Gallo was aroused and decided to propose to me <Emoji symbol=" 😅 " /> I may have led him on a bit from all the quality time I was spending with him, and I was caught off guard when he whipped out that ring.                    
+                    <br />
+                    <br />
+                    I tried letting him down easy by telling him that I already have an amazingly gorgeous and phenomenal girlfriend, but Gallo didn’t want a bar of it and actually threatened me. So, I think I need you to put him in his place next time you see him <Emoji symbol=" 😉" />
+                    </p>
                 </article>
             </article>
             <article id="finalMessage">
