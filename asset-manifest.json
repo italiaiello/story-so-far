@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/story-so-far/static/css/main.c862e9ef.chunk.css",
-    "main.js": "/story-so-far/static/js/main.7ef5a758.chunk.js",
-    "main.js.map": "/story-so-far/static/js/main.7ef5a758.chunk.js.map",
+    "main.css": "/story-so-far/static/css/main.78117724.chunk.css",
+    "main.js": "/story-so-far/static/js/main.1deec265.chunk.js",
+    "main.js.map": "/story-so-far/static/js/main.1deec265.chunk.js.map",
     "runtime-main.js": "/story-so-far/static/js/runtime-main.d6cacf0a.js",
     "runtime-main.js.map": "/story-so-far/static/js/runtime-main.d6cacf0a.js.map",
-    "static/js/2.8232371b.chunk.js": "/story-so-far/static/js/2.8232371b.chunk.js",
-    "static/js/2.8232371b.chunk.js.map": "/story-so-far/static/js/2.8232371b.chunk.js.map",
+    "static/js/2.0811b9a2.chunk.js": "/story-so-far/static/js/2.0811b9a2.chunk.js",
+    "static/js/2.0811b9a2.chunk.js.map": "/story-so-far/static/js/2.0811b9a2.chunk.js.map",
     "index.html": "/story-so-far/index.html",
-    "precache-manifest.f20dd3f825cb68690c8413fa4550f901.js": "/story-so-far/precache-manifest.f20dd3f825cb68690c8413fa4550f901.js",
+    "precache-manifest.18ca5c76ab4fb3ee3f2b208f01bc6d8b.js": "/story-so-far/precache-manifest.18ca5c76ab4fb3ee3f2b208f01bc6d8b.js",
     "service-worker.js": "/story-so-far/service-worker.js",
-    "static/css/main.c862e9ef.chunk.css.map": "/story-so-far/static/css/main.c862e9ef.chunk.css.map",
-    "static/js/2.8232371b.chunk.js.LICENSE.txt": "/story-so-far/static/js/2.8232371b.chunk.js.LICENSE.txt",
+    "static/css/main.78117724.chunk.css.map": "/story-so-far/static/css/main.78117724.chunk.css.map",
+    "static/js/2.0811b9a2.chunk.js.LICENSE.txt": "/story-so-far/static/js/2.0811b9a2.chunk.js.LICENSE.txt",
     "static/media/braFrogLady.JPG": "/story-so-far/static/media/braFrogLady.ae54f927.JPG",
     "static/media/bumbleLogo.svg": "/story-so-far/static/media/bumbleLogo.a296963d.svg",
     "static/media/gallo.JPG": "/story-so-far/static/media/gallo.5fe30788.JPG",
+    "static/media/halloween.jpg": "/story-so-far/static/media/halloween.6af9ebf5.jpg",
     "static/media/heels.JPG": "/story-so-far/static/media/heels.3a6ace2d.JPG",
     "static/media/kingsleys.jpg": "/story-so-far/static/media/kingsleys.506ba81a.jpg",
     "static/media/nailPolish.JPG": "/story-so-far/static/media/nailPolish.4910c86d.JPG",
@@ -35,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d6cacf0a.js",
-    "static/js/2.8232371b.chunk.js",
-    "static/css/main.c862e9ef.chunk.css",
-    "static/js/main.7ef5a758.chunk.js"
+    "static/js/2.0811b9a2.chunk.js",
+    "static/css/main.78117724.chunk.css",
+    "static/js/main.1deec265.chunk.js"
   ]
 }
