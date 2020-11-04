@@ -25,6 +25,7 @@ import Trivia from '../../images/2020/trivia.JPG'
 import SocialHideout from '../../images/2020/social-hideout.JPG'
 import Gallo from '../../images/2020/gallo.JPG'
 import NailPolish from '../../images/2020/nailPolish.JPG'
+import Halloween from '../../images/2020/halloween.jpg'
 
 
 
@@ -325,6 +326,22 @@ const Year2020 = () => {
                     <br />
                     I tried letting him down easy by telling him that I already have an amazingly gorgeous and phenomenal girlfriend, but Gallo didn’t want a bar of it and actually threatened me. So, I think I need you to put him in his place next time you see him <Emoji symbol=" 😉" />
                     </p>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="halloween" className="step reverseFlex">
+                    <p className="description">
+                        It was our first Halloween as a couple (and my first proper Halloween in my life <Emoji symbol=" 😊" />), and damn were you sexy as a sailor <Emoji symbol=" 😏 " /> I was the luckiest pirate of the seas to have such a gloriously beautiful woman by my side <Emoji symbol=" 😘" />                   
+                        <br />
+                        <br />
+                        We even did a couple of role plays as well, which set an even sexier mood for our make out <Emoji symbol=" 😉 " /> (well, maybe except for the pirate role play, which turned out to be more humorous than sexy <Emoji symbol=" 😂" />).                    
+                        <br />
+                        <br />
+                        If COVID is less of a nuisance next Halloween, we should definitely try to find a Halloween ball or something to go to so we can really show off our super sexy outfits <Emoji symbol=" 🥰" />                 
+                    </p>
+                    <figure id="halloweenPic" className="imageContainer rounded skinnyImage">
+                        <img src={Halloween} alt="Halloween" />
+                    </figure>
                 </article>
             </article>
             <article id="finalMessage">
