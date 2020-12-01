@@ -26,6 +26,7 @@ import SocialHideout from '../../images/2020/social-hideout.JPG'
 import Gallo from '../../images/2020/gallo.JPG'
 import NailPolish from '../../images/2020/nailPolish.JPG'
 import Halloween from '../../images/2020/halloween.jpg'
+import RoyalCasino from '../../images/2020/royalCasino.JPG'
 
 
 
@@ -329,7 +330,7 @@ const Year2020 = () => {
                 </article>
             </article>
             <article className="stepContainer">
-                <article id="halloween" className="step reverseFlex">
+                <article id="halloween" className="step reverseFlex-">
                     <p className="description">
                         It was our first Halloween as a couple (and my first proper Halloween in my life <Emoji symbol=" 😊" />), and damn were you sexy as a sailor <Emoji symbol=" 😏 " /> I was the luckiest pirate of the seas to have such a gloriously beautiful woman by my side <Emoji symbol=" 😘" />                   
                         <br />
@@ -342,6 +343,22 @@ const Year2020 = () => {
                     <figure id="halloweenPic" className="imageContainer rounded skinnyImage">
                         <img src={Halloween} alt="Halloween" />
                     </figure>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="royalCasino" className="step alignRight">
+                    <figure id="royalCasinoImg" className="imageContainer rounded">
+                        <img src={RoyalCasino} alt="Royal Casino" />
+                    </figure>
+                    <p className="description">
+                    Simon invited us to go to the Royal Casino escape room with a couple of his friends, and it was so good doing another one with you <Emoji symbol=" 😊 " /> We all absolutely smashed it (of course we did <Emoji symbol=" 😏" />).
+                    <br />
+                    <br />
+                    It was hilarious how the lady told us to try not to over think things, but we did exactly that for some of the puzzles <Emoji symbol=" 😂 " /> I reckon we could have smashed it in under an hour if we didn’t overthink so many things. But we managed to escape with the diamond in the end which is the important thing, it would have sucked if we didn’t get to finish <Emoji symbol=" 🤗" />                    
+                    <br />
+                    <br />
+                    We make such an amazing team together, can’t wait to do more teamwork activities with you <Emoji symbol=" 🥰" />                   
+                    </p>
                 </article>
             </article>
             <article id="finalMessage">
