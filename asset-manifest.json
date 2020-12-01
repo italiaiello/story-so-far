@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/story-so-far/static/css/main.78117724.chunk.css",
-    "main.js": "/story-so-far/static/js/main.1deec265.chunk.js",
-    "main.js.map": "/story-so-far/static/js/main.1deec265.chunk.js.map",
+    "main.js": "/story-so-far/static/js/main.283e93c4.chunk.js",
+    "main.js.map": "/story-so-far/static/js/main.283e93c4.chunk.js.map",
     "runtime-main.js": "/story-so-far/static/js/runtime-main.d6cacf0a.js",
     "runtime-main.js.map": "/story-so-far/static/js/runtime-main.d6cacf0a.js.map",
-    "static/js/2.0811b9a2.chunk.js": "/story-so-far/static/js/2.0811b9a2.chunk.js",
-    "static/js/2.0811b9a2.chunk.js.map": "/story-so-far/static/js/2.0811b9a2.chunk.js.map",
+    "static/js/2.82fc8305.chunk.js": "/story-so-far/static/js/2.82fc8305.chunk.js",
+    "static/js/2.82fc8305.chunk.js.map": "/story-so-far/static/js/2.82fc8305.chunk.js.map",
     "index.html": "/story-so-far/index.html",
-    "precache-manifest.18ca5c76ab4fb3ee3f2b208f01bc6d8b.js": "/story-so-far/precache-manifest.18ca5c76ab4fb3ee3f2b208f01bc6d8b.js",
+    "precache-manifest.c0a5f9232be86e207eece3dcd19d74a5.js": "/story-so-far/precache-manifest.c0a5f9232be86e207eece3dcd19d74a5.js",
     "service-worker.js": "/story-so-far/service-worker.js",
     "static/css/main.78117724.chunk.css.map": "/story-so-far/static/css/main.78117724.chunk.css.map",
-    "static/js/2.0811b9a2.chunk.js.LICENSE.txt": "/story-so-far/static/js/2.0811b9a2.chunk.js.LICENSE.txt",
+    "static/js/2.82fc8305.chunk.js.LICENSE.txt": "/story-so-far/static/js/2.82fc8305.chunk.js.LICENSE.txt",
     "static/media/braFrogLady.JPG": "/story-so-far/static/media/braFrogLady.ae54f927.JPG",
     "static/media/bumbleLogo.svg": "/story-so-far/static/media/bumbleLogo.a296963d.svg",
     "static/media/gallo.JPG": "/story-so-far/static/media/gallo.5fe30788.JPG",
@@ -27,6 +27,7 @@
     "static/media/purpleDress.JPG": "/story-so-far/static/media/purpleDress.1bf0324e.JPG",
     "static/media/redDress.JPG": "/story-so-far/static/media/redDress.5812e001.JPG",
     "static/media/redShell.jpg": "/story-so-far/static/media/redShell.af7c36d7.jpg",
+    "static/media/royalCasino.JPG": "/story-so-far/static/media/royalCasino.973251d5.JPG",
     "static/media/scorecard.JPG": "/story-so-far/static/media/scorecard.4f5a834f.JPG",
     "static/media/skype-covid.svg": "/story-so-far/static/media/skype-covid.768c6a0c.svg",
     "static/media/soccer.jpg": "/story-so-far/static/media/soccer.cd413297.jpg",
@@ -36,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d6cacf0a.js",
-    "static/js/2.0811b9a2.chunk.js",
+    "static/js/2.82fc8305.chunk.js",
     "static/css/main.78117724.chunk.css",
-    "static/js/main.1deec265.chunk.js"
+    "static/js/main.283e93c4.chunk.js"
   ]
 }
