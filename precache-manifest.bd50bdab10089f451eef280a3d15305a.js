@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ac5f6372449a3866d31363cf2d67c9a",
+    "revision": "367adbf5e2b309258911b70da5196a9e",
     "url": "/story-so-far/index.html"
   },
   {
-    "revision": "212caf40aa759f040347",
-    "url": "/story-so-far/static/css/main.78117724.chunk.css"
+    "revision": "8328b203a1134bf871cd",
+    "url": "/story-so-far/static/css/main.6611060f.chunk.css"
   },
   {
-    "revision": "46f151b3200b14e5401b",
-    "url": "/story-so-far/static/js/2.82fc8305.chunk.js"
+    "revision": "8e2358a2757a9421c2d1",
+    "url": "/story-so-far/static/js/2.ed702305.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/story-so-far/static/js/2.82fc8305.chunk.js.LICENSE.txt"
+    "url": "/story-so-far/static/js/2.ed702305.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "212caf40aa759f040347",
-    "url": "/story-so-far/static/js/main.5049f1c2.chunk.js"
+    "revision": "8328b203a1134bf871cd",
+    "url": "/story-so-far/static/js/main.5fbbc422.chunk.js"
   },
   {
     "revision": "953cb5a952e54499a765",
@@ -32,6 +32,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/story-so-far/static/media/bumbleLogo.a296963d.svg"
   },
   {
+    "revision": "9cdc7d138167dc6f99d83e6372eb86f7",
+    "url": "/story-so-far/static/media/christmas.9cdc7d13.JPG"
+  },
+  {
     "revision": "5fe30788b8c5a8380445b4433d6c3ca7",
     "url": "/story-so-far/static/media/gallo.5fe30788.JPG"
   },
@@ -42,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3a6ace2d3a01cc6a7aaf785ca8e24362",
     "url": "/story-so-far/static/media/heels.3a6ace2d.JPG"
+  },
+  {
+    "revision": "b4dae1fab5016ba0207e66d231260720",
+    "url": "/story-so-far/static/media/hunter-valley.b4dae1fa.jpeg"
   },
   {
     "revision": "506ba81a4be1a159824b04e709a72ccf",
