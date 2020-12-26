@@ -27,6 +27,8 @@ import Gallo from '../../images/2020/gallo.JPG'
 import NailPolish from '../../images/2020/nailPolish.JPG'
 import Halloween from '../../images/2020/halloween.jpg'
 import RoyalCasino from '../../images/2020/royalCasino.JPG'
+import HunterValley from '../../images/2020/hunter-valley.jpeg'
+import Christmas from '../../images/2020/christmas.JPG'
 
 
 
@@ -330,7 +332,7 @@ const Year2020 = () => {
                 </article>
             </article>
             <article className="stepContainer">
-                <article id="halloween" className="step reverseFlex-">
+                <article id="halloween" className="step reverseFlex">
                     <p className="description">
                         It was our first Halloween as a couple (and my first proper Halloween in my life <Emoji symbol=" 😊" />), and damn were you sexy as a sailor <Emoji symbol=" 😏 " /> I was the luckiest pirate of the seas to have such a gloriously beautiful woman by my side <Emoji symbol=" 😘" />                   
                         <br />
@@ -358,6 +360,44 @@ const Year2020 = () => {
                     <br />
                     <br />
                     We make such an amazing team together, can’t wait to do more teamwork activities with you <Emoji symbol=" 🥰" />                   
+                    </p>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="hunterValley" className="step reverseFlex">
+                    <p className="description">
+                        I’m honestly still surprised at how quick we managed to organise our trip to Hunter Valley <Emoji symbol=" 😂 " /> It was one of the most amazing experiences I’ve ever had <Emoji symbol=" 😊 " /> Waking up and going to sleep next to was out of this world, and I loved every second I spent with you in between <Emoji symbol=" 🤗" />                  
+                        <br />
+                        <br />
+                        We got so damn lucky with the weather too! We managed to do all the things we really wanted to do, which I was really happy about <Emoji symbol=" 😁 " /> Horse riding was amazing, although it definitely would have been nicer to ride alongside you, and even share a kiss while riding, like you said <Emoji symbol=" 😚" />                      
+                        <br />
+                        <br />
+                        I don’t really wanna talk about Aqua Golf much, I never felt more useless in my life <Emoji symbol=" 🤪 " /> But another massive highlight was going the to lights show with you. Walking around with your hand in mine was so amazing, I was so grateful to have such an amazing and beautiful girl by my side <Emoji symbol=" 🥰" />
+                        <br />
+                        <br />
+                        Kissing you at the top of the Ferris wheel, it was a great moment too <Emoji symbol=" 💝 " />(until we caught sight of those ghastly storm clouds heading straight for us) <Emoji symbol=" 😅" />         
+                        <br />
+                        <br />
+                        That holiday came and went in a flash, and we both miss it, but I’m sure we’ll be on a another holiday together super soon <Emoji symbol=" 😉 " />
+                        </p>
+                    <figure id="hunterValleyPic" className="imageContainer rounded skinnyImage enlargeImage">
+                        <img src={HunterValley} alt="Hunter Valley" />
+                    </figure>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article id="christmas" className="step alignRight">
+                    <figure id="christmasImg" className="imageContainer rounded skinnyImage enlargeImage">
+                        <img src={Christmas} alt="Christmas" />
+                    </figure>
+                    <p className="description">
+                    This Christmas was definitely one to remember, I think it was probably one of the first Christmases where I hopped into bed thinking ‘Damn, that was amazing’ <Emoji symbol=" 😌 " /> Spending the entire day with the people I care about the most was the perfect way to celebrate such a special day <Emoji symbol=" 😊" />                   
+                    <br />
+                    <br />
+                    We exchanged gifts in Hunter Valley so that our gifts would be a nice reminder of our trip too <Emoji symbol=" 🤗 " /> (and also because I really couldn’t wait any longer to give you your gift <Emoji symbol=" 😆" />). I absolutely love the Love Book that you made for me, it is hands down the best gift I have ever received <Emoji symbol=" 😍 " /> And I love the socks too, cause it means I can always walk around with a piece of you <Emoji symbol=" 🥰" />                 
+                    <br />
+                    <br />
+                    Spending the night with you and your family was so great as well <Emoji symbol=" 😊 " /> Scattergories was so fun, but I wanna try and bring out more weirdness next time <Emoji symbol=" 😏 " /> And that Berry Merry Pavlova was so damn good, I loved every bite <Emoji symbol=" 😋 " /> Can’t wait to spend more and more Christmases with you and your family in the future <Emoji symbol=" 🥳" />                  
                     </p>
                 </article>
             </article>

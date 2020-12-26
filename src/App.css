@@ -393,6 +393,14 @@ form {
     #finalMessage p {
       width: 80%;
     }
+
+    .skinnyImage {
+      height: 300px;
+    }
+
+    .skinnyImage img {
+      height: 100%;
+    }
 }
 
 /* Fix Input Zoom on iPhone 6, iPhone 6s, iPhone 7  */
