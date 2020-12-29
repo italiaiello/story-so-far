@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "367adbf5e2b309258911b70da5196a9e",
+    "revision": "dd32018689fa9bf4723620a6c8fdb413",
     "url": "/story-so-far/index.html"
   },
   {
-    "revision": "8328b203a1134bf871cd",
-    "url": "/story-so-far/static/css/main.6611060f.chunk.css"
+    "revision": "ff5e3cfce2ff2df069dd",
+    "url": "/story-so-far/static/css/main.c598bab8.chunk.css"
   },
   {
-    "revision": "8e2358a2757a9421c2d1",
-    "url": "/story-so-far/static/js/2.ed702305.chunk.js"
+    "revision": "eb0e8e5369c69abaac66",
+    "url": "/story-so-far/static/js/2.c4de22c4.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/story-so-far/static/js/2.ed702305.chunk.js.LICENSE.txt"
+    "url": "/story-so-far/static/js/2.c4de22c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8328b203a1134bf871cd",
-    "url": "/story-so-far/static/js/main.5fbbc422.chunk.js"
+    "revision": "ff5e3cfce2ff2df069dd",
+    "url": "/story-so-far/static/js/main.c41a9cf7.chunk.js"
   },
   {
     "revision": "953cb5a952e54499a765",
@@ -28,6 +28,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/story-so-far/static/media/braFrogLady.ae54f927.JPG"
   },
   {
+    "revision": "3ef231da87a6888f86fd0c2ee74e1180",
+    "url": "/story-so-far/static/media/bridge.3ef231da.JPG"
+  },
+  {
     "revision": "a296963d6e1225630f4ae777b699e620",
     "url": "/story-so-far/static/media/bumbleLogo.a296963d.svg"
   },
@@ -36,8 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/story-so-far/static/media/christmas.9cdc7d13.JPG"
   },
   {
+    "revision": "d98cba33d9325a857ab24b194b580181",
+    "url": "/story-so-far/static/media/dance.d98cba33.JPG"
+  },
+  {
+    "revision": "056be506dad90dae082843753d311400",
+    "url": "/story-so-far/static/media/dive.056be506.jpg"
+  },
+  {
     "revision": "5fe30788b8c5a8380445b4433d6c3ca7",
     "url": "/story-so-far/static/media/gallo.5fe30788.JPG"
+  },
+  {
+    "revision": "f4dddf043b1b5f6a09c366fe427be9cc",
+    "url": "/story-so-far/static/media/garden.f4dddf04.jpg"
   },
   {
     "revision": "6af9ebf51b9f4a094623887112e7b8d1",
@@ -54,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "506ba81a4be1a159824b04e709a72ccf",
     "url": "/story-so-far/static/media/kingsleys.506ba81a.jpg"
+  },
+  {
+    "revision": "5d04e192a78bedc6cce7297f6e8d9f76",
+    "url": "/story-so-far/static/media/luna-park.5d04e192.JPG"
   },
   {
     "revision": "4910c86d5aa6d71039ac1e56614b496d",
@@ -110,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6f7e10a77a7a5631cb30b8027a3d19ec",
     "url": "/story-so-far/static/media/social-hideout.6f7e10a7.JPG"
+  },
+  {
+    "revision": "c5bf7a6b9c3e51593a737fd757946272",
+    "url": "/story-so-far/static/media/start.c5bf7a6b.JPG"
   },
   {
     "revision": "44b880b01fb451da104c09be0a242963",
