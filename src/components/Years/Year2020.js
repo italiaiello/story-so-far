@@ -29,6 +29,12 @@ import Halloween from '../../images/2020/halloween.jpg'
 import RoyalCasino from '../../images/2020/royalCasino.JPG'
 import HunterValley from '../../images/2020/hunter-valley.jpeg'
 import Christmas from '../../images/2020/christmas.JPG'
+import Start from '../../images/2020/ScavengerHunt/start.JPG'
+import Bridge from '../../images/2020/ScavengerHunt/bridge.JPG'
+import Dance from '../../images/2020/ScavengerHunt/dance.JPG'
+import Dive from '../../images/2020/ScavengerHunt/dive.jpg'
+import Garden from '../../images/2020/ScavengerHunt/garden.jpg'
+import LunaPark from '../../images/2020/ScavengerHunt/luna-park.JPG'
 
 
 
@@ -398,6 +404,23 @@ const Year2020 = () => {
                     <br />
                     <br />
                     Spending the night with you and your family was so great as well <Emoji symbol=" 😊 " /> Scattergories was so fun, but I wanna try and bring out more weirdness next time <Emoji symbol=" 😏 " /> And that Berry Merry Pavlova was so damn good, I loved every bite <Emoji symbol=" 😋 " /> Can’t wait to spend more and more Christmases with you and your family in the future <Emoji symbol=" 🥳" />                  
+                    </p>
+                </article>
+            </article>
+            <article className="stepContainer">
+                <article className="step-column">
+                    <Slider imageURLs={[Start, Bridge, Dance, Dive, LunaPark, Garden]} />
+                    <p>
+                        Your mum’s idea to send us on a scavenger hunt was an amazing idea, I really loved working with you to try and solve all the tasks <Emoji symbol=" 🤗 " /> And it was so cool how we got to explore different places, like the ’secret’ garden for example, which was something I had never heard of before <Emoji symbol=" 😊" /> I’d love to do another scavenger hunt with you soon <Emoji symbol=" 😘" />                      
+                        <br />
+                        <br />
+                        I think one of the highlights of the day definitely has to be the proposal setup we witnessed <Emoji symbol=" 😏 " /> I would have loved to stay and watch the proposal unfold, but it was just taking too damn long, and there was no way I was gonna fight against mosquito bites just to watch it <Emoji symbol=" 🤪" />                      
+                        <br />
+                        <br />
+                        Kissing you in the garden was my favourite part of the day, you’re just so damn sexy <Emoji symbol=" 😍 " /> And I’m really happy that I’m getting more comfortable kissing you in public, cause I wanna kiss all the damn time <Emoji symbol=" 🥰" />, so now I don’t have to wait until we’re in a secluded spot <Emoji symbol=" 😂 " />                      
+                        <br />
+                        <br />
+                        I absolutely love you to bits, my angel <Emoji symbol=" 😇 " />
                     </p>
                 </article>
             </article>

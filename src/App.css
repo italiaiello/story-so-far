@@ -149,12 +149,17 @@ form {
   cursor: pointer;
 }
 
-#leftArrow {
+.lighter {
+  border: solid #C4DEE6;
+  border-width: 0 4px 4px 0;
+}
+
+.leftArrow {
   transform: rotate(135deg);
   -webkit-transform: rotate(135deg);
 }
 
-#rightArrow {
+.rightArrow {
   transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
 }

@@ -23,11 +23,11 @@ const Slider = ({ imageURLs }) => {
 
     return (
         <article className="slider">
-            <div id="leftArrow" className="sliderArrow" onClick={decrementIndex}></div>
+            <div className="leftArrow sliderArrow lighter" onClick={decrementIndex}></div>
             <figure className="dressImage rounded">
                 <img src={imageURLs[index]} alt="Images of me in dresses and a onesie" />
             </figure>
-            <div id="rightArrow" className="sliderArrow" onClick={incrementIndex}></div>
+            <div className="rightArrow sliderArrow lighter" onClick={incrementIndex}></div>
         </article>
     )
 }
