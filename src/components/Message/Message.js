@@ -1,7 +1,9 @@
 import React from 'react'
-import Year2020 from '../Years/Year2020'
+import FinalMessage from '../FinalMessage/FinalMessage'
+import YearSelector from '../YearSelector/YearSelector'
 
 const Message = () => {
+
     return (
         <section id="message">
             <article id="titlePage">
@@ -9,7 +11,12 @@ const Message = () => {
                 <p id="abstract">A showcase of all the best memories and moments of our relationship so far</p>
                 <div id="arrow"></div>
             </article>
-            <Year2020 />
+            {/* Dropdown at the top pf the page */}
+            <YearSelector isBottomDropdown={false} />
+
+            {/* Dropdown at the bottom of the page */}
+            <YearSelector isBottomDropdown={true} />
+            <FinalMessage />
         </section>
     )
 }

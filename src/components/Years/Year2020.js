@@ -41,7 +41,6 @@ import LunaPark from '../../images/2020/ScavengerHunt/luna-park.JPG'
 const Year2020 = () => {
     return (
         <section>
-            <h2 className="year">2020</h2>
             <article className="stepContainer">
                 <article id="bumble" className="step alignRight">
                     <figure id="logo" className="imageContainer">
@@ -420,13 +419,9 @@ const Year2020 = () => {
                         Kissing you in the garden was my favourite part of the day, you’re just so damn sexy <Emoji symbol=" 😍 " /> And I’m really happy that I’m getting more comfortable kissing you in public, cause I wanna kiss all the damn time <Emoji symbol=" 🥰" />, so now I don’t have to wait until we’re in a secluded spot <Emoji symbol=" 😂 " />                      
                         <br />
                         <br />
-                        I absolutely love you to bits, my angel <Emoji symbol=" 😇 " />
+                        I absolutely love you to bits, my angel <Emoji symbol=" 😇" />
                     </p>
                 </article>
-            </article>
-            <article id="finalMessage">
-                <h2>To be continued ...</h2>
-                <p>I'm looking forward to making some more amazing memories with you <Emoji symbol=" 😊" /></p>
             </article>
         </section>
     )
