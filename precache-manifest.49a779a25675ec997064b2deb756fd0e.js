@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc10ed54473bedb871f6c532387431d7",
+    "revision": "6a8cb78a0b12f3e4196d1260d89379ea",
     "url": "/story-so-far/index.html"
   },
   {
-    "revision": "723675ca318cf238b721",
-    "url": "/story-so-far/static/css/main.f5f6e1b8.chunk.css"
+    "revision": "b789966bd46a48d955f5",
+    "url": "/story-so-far/static/css/main.2f3a5bb2.chunk.css"
   },
   {
-    "revision": "eb0e8e5369c69abaac66",
-    "url": "/story-so-far/static/js/2.c4de22c4.chunk.js"
+    "revision": "76420dc68a49cc3739ef",
+    "url": "/story-so-far/static/js/2.bacde5c0.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/story-so-far/static/js/2.c4de22c4.chunk.js.LICENSE.txt"
+    "url": "/story-so-far/static/js/2.bacde5c0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "723675ca318cf238b721",
-    "url": "/story-so-far/static/js/main.613641e4.chunk.js"
+    "revision": "b789966bd46a48d955f5",
+    "url": "/story-so-far/static/js/main.a75562f2.chunk.js"
   },
   {
     "revision": "953cb5a952e54499a765",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d04e192a78bedc6cce7297f6e8d9f76",
     "url": "/story-so-far/static/media/luna-park.5d04e192.JPG"
+  },
+  {
+    "revision": "aca2d07143215529e9d0381b2c6600bb",
+    "url": "/story-so-far/static/media/luna-park.aca2d071.jpg"
   },
   {
     "revision": "4910c86d5aa6d71039ac1e56614b496d",
