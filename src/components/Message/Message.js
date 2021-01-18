@@ -1,8 +1,11 @@
-import React from 'react'
+import React, { useState } from 'react'
 import FinalMessage from '../FinalMessage/FinalMessage'
 import YearSelector from '../YearSelector/YearSelector'
 
 const Message = () => {
+
+    const [year, setYear] = useState('2021')
+    const onYearSelect = (e) => setYear(e.target.value)
 
     return (
         <section id="message">
@@ -12,10 +15,10 @@ const Message = () => {
                 <div id="arrow"></div>
             </article>
             {/* Dropdown at the top pf the page */}
-            <YearSelector isBottomDropdown={false} />
+            <YearSelector isBottomDropdown={false} year={year} onYearSelect={onYearSelect} />
 
             {/* Dropdown at the bottom of the page */}
-            <YearSelector isBottomDropdown={true} />
+            <YearSelector isBottomDropdown={true} year={year} onYearSelect={onYearSelect} />
             <FinalMessage />
         </section>
     )

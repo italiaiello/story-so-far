@@ -1,11 +1,9 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { loadYear } from '../../functions/loadYear'
 
-const YearSelector = ({ isBottomDropdown }) => {
+const YearSelector = ({ isBottomDropdown, year, onYearSelect }) => {
 
-    const [year, setYear] = useState('2020')
-
-    const onYearSelect = (e) => setYear(e.target.value)
+    
 
     return (
         <section id="year-selector">

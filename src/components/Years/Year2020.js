@@ -216,7 +216,7 @@ const Year2020 = () => {
             </article>
             <article className="stepContainer">
                 <article className="step-column">
-                    <Slider imageURLs={[RedDress, PinkDress, PurpleDress, Onesie]} lightenArrows={false} />
+                    <Slider imageURLs={[RedDress, PinkDress, PurpleDress, Onesie]} lightenArrows={true} />
                     <p>
                         It was great meeting your close friend Tash, and it was awesome spending the rest of the day with you at home too <Emoji symbol=" 🤗" />
                         <br />
@@ -408,7 +408,7 @@ const Year2020 = () => {
             </article>
             <article className="stepContainer">
                 <article className="step-column">
-                    <Slider imageURLs={[Start, Bridge, Dance, Dive, LunaPark, Garden]} lightenArrows={true} />
+                    <Slider imageURLs={[Start, Bridge, Dance, Dive, LunaPark, Garden]} lightenArrows={false} />
                     <p>
                         Your mum’s idea to send us on a scavenger hunt was an amazing idea, I really loved working with you to try and solve all the tasks <Emoji symbol=" 🤗 " /> And it was so cool how we got to explore different places, like the ’secret’ garden for example, which was something I had never heard of before <Emoji symbol=" 😊" /> I’d love to do another scavenger hunt with you soon <Emoji symbol=" 😘" />                      
                         <br />
