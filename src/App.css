@@ -337,6 +337,13 @@ form {
   height: auto;
 }
 
+/* Year 2021 */
+
+#valentinesDayPic img {
+  width: 50%;
+  height: auto;
+}
+
 
 /* Portrait Phones */
 @media only screen 
@@ -462,6 +469,10 @@ form {
 
     .skinnyImage img {
       height: 100%;
+    }
+
+    #valentinesDayPic img{
+      width: 80%;
     }
 }
 
