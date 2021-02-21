@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a8cb78a0b12f3e4196d1260d89379ea",
+    "revision": "d2bb666c2a63dfce0f815c091585e09c",
     "url": "/story-so-far/index.html"
   },
   {
-    "revision": "b789966bd46a48d955f5",
-    "url": "/story-so-far/static/css/main.2f3a5bb2.chunk.css"
+    "revision": "fc9d33e0c77f39e3664d",
+    "url": "/story-so-far/static/css/main.b30b9db6.chunk.css"
   },
   {
-    "revision": "76420dc68a49cc3739ef",
-    "url": "/story-so-far/static/js/2.bacde5c0.chunk.js"
+    "revision": "9ccdabecfb3dee455617",
+    "url": "/story-so-far/static/js/2.9157d048.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/story-so-far/static/js/2.bacde5c0.chunk.js.LICENSE.txt"
+    "url": "/story-so-far/static/js/2.9157d048.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b789966bd46a48d955f5",
-    "url": "/story-so-far/static/js/main.a75562f2.chunk.js"
+    "revision": "fc9d33e0c77f39e3664d",
+    "url": "/story-so-far/static/js/main.2a27c598.chunk.js"
   },
   {
     "revision": "953cb5a952e54499a765",
@@ -142,6 +142,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "44b880b01fb451da104c09be0a242963",
     "url": "/story-so-far/static/media/trivia.44b880b0.JPG"
+  },
+  {
+    "revision": "4954fe5d4a59a34eac0f3391a1e5e8ec",
+    "url": "/story-so-far/static/media/valentines-day.4954fe5d.JPG"
   },
   {
     "revision": "185e3ca7f24899c7515a89ddd3bc49d2",

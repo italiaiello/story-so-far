@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/story-so-far/static/css/main.2f3a5bb2.chunk.css",
-    "main.js": "/story-so-far/static/js/main.a75562f2.chunk.js",
-    "main.js.map": "/story-so-far/static/js/main.a75562f2.chunk.js.map",
+    "main.css": "/story-so-far/static/css/main.b30b9db6.chunk.css",
+    "main.js": "/story-so-far/static/js/main.2a27c598.chunk.js",
+    "main.js.map": "/story-so-far/static/js/main.2a27c598.chunk.js.map",
     "runtime-main.js": "/story-so-far/static/js/runtime-main.d6cacf0a.js",
     "runtime-main.js.map": "/story-so-far/static/js/runtime-main.d6cacf0a.js.map",
-    "static/js/2.bacde5c0.chunk.js": "/story-so-far/static/js/2.bacde5c0.chunk.js",
-    "static/js/2.bacde5c0.chunk.js.map": "/story-so-far/static/js/2.bacde5c0.chunk.js.map",
+    "static/js/2.9157d048.chunk.js": "/story-so-far/static/js/2.9157d048.chunk.js",
+    "static/js/2.9157d048.chunk.js.map": "/story-so-far/static/js/2.9157d048.chunk.js.map",
     "index.html": "/story-so-far/index.html",
-    "precache-manifest.49a779a25675ec997064b2deb756fd0e.js": "/story-so-far/precache-manifest.49a779a25675ec997064b2deb756fd0e.js",
+    "precache-manifest.24c9ff92a32e3e9443b77c5c87b9ac9c.js": "/story-so-far/precache-manifest.24c9ff92a32e3e9443b77c5c87b9ac9c.js",
     "service-worker.js": "/story-so-far/service-worker.js",
-    "static/css/main.2f3a5bb2.chunk.css.map": "/story-so-far/static/css/main.2f3a5bb2.chunk.css.map",
-    "static/js/2.bacde5c0.chunk.js.LICENSE.txt": "/story-so-far/static/js/2.bacde5c0.chunk.js.LICENSE.txt",
+    "static/css/main.b30b9db6.chunk.css.map": "/story-so-far/static/css/main.b30b9db6.chunk.css.map",
+    "static/js/2.9157d048.chunk.js.LICENSE.txt": "/story-so-far/static/js/2.9157d048.chunk.js.LICENSE.txt",
     "static/media/braFrogLady.JPG": "/story-so-far/static/media/braFrogLady.ae54f927.JPG",
     "static/media/bridge.JPG": "/story-so-far/static/media/bridge.3ef231da.JPG",
     "static/media/bumbleLogo.svg": "/story-so-far/static/media/bumbleLogo.a296963d.svg",
@@ -42,12 +42,13 @@
     "static/media/social-hideout.JPG": "/story-so-far/static/media/social-hideout.6f7e10a7.JPG",
     "static/media/start.JPG": "/story-so-far/static/media/start.c5bf7a6b.JPG",
     "static/media/trivia.JPG": "/story-so-far/static/media/trivia.44b880b0.JPG",
+    "static/media/valentines-day.JPG": "/story-so-far/static/media/valentines-day.4954fe5d.JPG",
     "static/media/zoo.JPG": "/story-so-far/static/media/zoo.185e3ca7.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.d6cacf0a.js",
-    "static/js/2.bacde5c0.chunk.js",
-    "static/css/main.2f3a5bb2.chunk.css",
-    "static/js/main.a75562f2.chunk.js"
+    "static/js/2.9157d048.chunk.js",
+    "static/css/main.b30b9db6.chunk.css",
+    "static/js/main.2a27c598.chunk.js"
   ]
 }
